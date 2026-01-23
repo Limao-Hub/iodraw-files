@@ -83,7 +83,7 @@
           <mxGeometry x="962" y="270" width="180" height="42" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1196" y="122" width="159" height="73" as="geometry" />
+          <mxGeometry x="1196" y="122" width="195" height="125" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1430" y="122" width="156" height="73" as="geometry" />
@@ -91,8 +91,8 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-59" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1001" y="286" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-60" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;输入当前温湿度数据&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1196" y="140" width="180" height="120" as="geometry" />
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-60" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;向用户打印当前温湿度数据&lt;/h1&gt;&lt;div&gt;sprintf();&lt;/div&gt;&lt;div&gt;osal_print();&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1203.5" y="127" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
