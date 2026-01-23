@@ -204,6 +204,9 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-116" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;持续监测用户是否有输入，若有则判断输入内容&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="RCKc4XgYw5bfJA55bIf9-117">
           <mxGeometry x="22.75" y="11.439999999999998" width="175.5" height="124" as="geometry" />
         </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.792;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCKc4XgYw5bfJA55bIf9-87" target="RCKc4XgYw5bfJA55bIf9-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
