@@ -234,11 +234,8 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCKc4XgYw5bfJA55bIf9-115" target="RCKc4XgYw5bfJA55bIf9-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-131" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="728" y="819" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-132" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="564.5" y="819" width="59.5" height="26" as="geometry" />
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-132" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;输入”now&quot;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="613.5" y="819" width="59.5" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
