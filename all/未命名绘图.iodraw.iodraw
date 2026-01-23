@@ -220,7 +220,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-126" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;用户输入“stop&quot;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="616" y="605" width="60" height="30" as="geometry" />
+          <mxGeometry x="611" y="605" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-127" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="728" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-128" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="728" y="325" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
