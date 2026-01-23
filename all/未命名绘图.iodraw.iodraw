@@ -172,10 +172,7 @@
           <mxGeometry x="923" y="695" width="221" height="85" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-92" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;持续读取用户输入&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="958" y="695" width="180" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCKc4XgYw5bfJA55bIf9-90" target="RCKc4XgYw5bfJA55bIf9-90">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="958" y="695" width="147" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
