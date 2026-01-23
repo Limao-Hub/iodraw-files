@@ -40,6 +40,9 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;通过MOTT向用户打印警告并输出当前温湿度&lt;/h1&gt;&lt;div&gt;osal_print();&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="51.25" y="765" width="179.76" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="510" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
