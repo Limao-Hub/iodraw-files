@@ -211,13 +211,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-120" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="481" y="455" width="260" height="143" as="geometry" />
+          <mxGeometry x="481" y="455" width="260" height="117" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCKc4XgYw5bfJA55bIf9-115" target="RCKc4XgYw5bfJA55bIf9-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-123" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;打印累计光照时常和当前温湿度，将小灯翻转为低电平&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="496" y="470" width="180" height="120" as="geometry" />
+          <mxGeometry x="496" y="470" width="219" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
