@@ -103,8 +103,8 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-63" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1443" y="119.5" width="143" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-66" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1196" y="169" width="180" height="120" as="geometry" />
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-66" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;打印询问是否继续功能，并读取输入&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1443" y="156" width="143" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
