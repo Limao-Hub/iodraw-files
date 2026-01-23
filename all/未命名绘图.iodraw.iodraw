@@ -126,8 +126,8 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-73" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1729" y="160" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1118" y="325" width="120" height="60" as="geometry" />
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-75" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1196" y="341.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
