@@ -58,6 +58,9 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-39" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;用户发来指令&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="260" width="86" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
