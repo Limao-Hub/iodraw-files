@@ -67,11 +67,11 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="832" y="210.5" width="364" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="338" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;是&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="710" y="262" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="975" y="286" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
