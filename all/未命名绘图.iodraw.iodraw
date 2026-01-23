@@ -7,9 +7,6 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCKc4XgYw5bfJA55bIf9-54" target="RCKc4XgYw5bfJA55bIf9-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-54" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="936" y="234" width="195" height="117" as="geometry" />
-        </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="182" width="280" height="208" as="geometry" />
         </mxCell>
@@ -82,9 +79,6 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;打印菜单&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="767" y="270" width="104" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;读取用户输入&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="962" y="270" width="180" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCKc4XgYw5bfJA55bIf9-57" target="RCKc4XgYw5bfJA55bIf9-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -127,7 +121,16 @@
           <mxGeometry x="1729" y="160" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-75" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1196" y="341.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="1196" y="341.25" width="234" height="139.75" as="geometry" />
+        </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-76" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="936" y="234" width="206" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-54" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="RCKc4XgYw5bfJA55bIf9-76">
+          <mxGeometry width="195" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;读取用户输入&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="RCKc4XgYw5bfJA55bIf9-76">
+          <mxGeometry x="26" y="36" width="180" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
