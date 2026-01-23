@@ -132,6 +132,9 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;读取用户输入&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="RCKc4XgYw5bfJA55bIf9-76">
           <mxGeometry x="26" y="36" width="180" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCKc4XgYw5bfJA55bIf9-54" target="RCKc4XgYw5bfJA55bIf9-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
