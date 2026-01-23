@@ -195,6 +195,9 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-106" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;打印累计光照时间和当前温度湿度&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="954.25" y="676" width="147" height="94.5" as="geometry" />
         </mxCell>
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="923" y="390" width="221" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
