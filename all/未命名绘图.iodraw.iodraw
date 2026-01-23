@@ -37,7 +37,7 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="51.24999999999999" y="750" width="179.53" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;打印警告并输出当前温湿度&lt;/h1&gt;&lt;div&gt;osal_print();&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;通过MOTT向用户打印警告并输出当前温湿度&lt;/h1&gt;&lt;div&gt;osal_print();&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60.24" y="750" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
