@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="jWyR9dQYlYWBgsY33sNI">
-    <mxGraphModel dx="309" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="448" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,13 +25,10 @@
           <mxGeometry x="230" y="145" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-10" value="&lt;b&gt;加入全局变量flag,开始时用户输入任意键进入菜单，flag反转，后续输入则进入功能选择界面，打印用户的选择后再次反转flag保证下次打印结果为菜单&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="320" width="170" height="90" as="geometry" />
+          <mxGeometry x="400" y="290" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="140" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.601;entryY=1.147;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p_DI6pSRG5Wt4KXXbCvM-10" target="p_DI6pSRG5Wt4KXXbCvM-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
