@@ -41,7 +41,10 @@
           <mxGeometry x="387.5" y="510" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-15" value="把读取到的数据转化为湿度和温度的浮点数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="620" width="190" height="60" as="geometry" />
+          <mxGeometry x="385" y="620" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDjN70Q_Se-jGM4EE3Aq-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="610" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
