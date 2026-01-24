@@ -16,11 +16,14 @@
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-2" value="配置中断函数二号串口消息写事件&lt;div&gt;app_uart_event_init&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_DI6pSRG5Wt4KXXbCvM-4" target="p_DI6pSRG5Wt4KXXbCvM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-4" value="等待串口写事件触发" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="145" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="270" width="180" height="70" as="geometry" />
+        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-8" value="发送串口信息（打印菜单）&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
