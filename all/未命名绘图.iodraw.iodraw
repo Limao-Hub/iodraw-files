@@ -39,6 +39,9 @@
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-16" value="清空串口&lt;div&gt;memset()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-18" value="应该打印菜单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
