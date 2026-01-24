@@ -67,7 +67,7 @@
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-24" value="&lt;b&gt;是&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WDjN70Q_Se-jGM4EE3Aq-25" value="使用sprintf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WDjN70Q_Se-jGM4EE3Aq-25" value="使用sprintf把数据拼接为字符串warning_data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="750" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
