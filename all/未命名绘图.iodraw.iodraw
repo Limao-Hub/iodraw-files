@@ -27,7 +27,7 @@
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-10" value="&lt;b&gt;加入全局变量flag,开始时用户输入任意键进入菜单，flag反转，后续输入则进入功能选择界面，打印用户的选择后再次反转flag保证下次打印结果为菜单&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="290" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-11" value="借助flag判断应该发送的信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
