@@ -16,9 +16,6 @@
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-4" value="等待串口写事件触发" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p_DI6pSRG5Wt4KXXbCvM-4" target="p_DI6pSRG5Wt4KXXbCvM-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
