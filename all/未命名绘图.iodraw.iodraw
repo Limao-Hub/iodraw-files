@@ -53,6 +53,9 @@
             <mxPoint x="720" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_DI6pSRG5Wt4KXXbCvM-21" target="p_DI6pSRG5Wt4KXXbCvM-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-21" value="借助if判断输入的信息&lt;div&gt;对应功能&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="170" height="140" as="geometry" />
         </mxCell>
@@ -81,7 +84,7 @@
           <mxGeometry x="720" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="460" width="115" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
