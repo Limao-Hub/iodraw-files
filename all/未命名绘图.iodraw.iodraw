@@ -42,11 +42,8 @@
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-18" value="应该打印菜单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="450" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
