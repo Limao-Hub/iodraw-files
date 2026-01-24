@@ -70,6 +70,9 @@
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-25" value="使用sprintf把数据拼接为字符串warning_data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="750" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="WDjN70Q_Se-jGM4EE3Aq-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
