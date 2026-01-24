@@ -31,6 +31,9 @@
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-8" value="循环读取数据&lt;div&gt;while(1)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="WDjN70Q_Se-jGM4EE3Aq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
