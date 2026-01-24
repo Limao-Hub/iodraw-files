@@ -46,8 +46,14 @@
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-15" value="把读取到的数据转化为湿度和温度的浮点数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="620" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WDjN70Q_Se-jGM4EE3Aq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDjN70Q_Se-jGM4EE3Aq-17" target="WDjN70Q_Se-jGM4EE3Aq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-17" value="判断：&lt;div&gt;温湿度数据是否在预设值范围内？&lt;/div&gt;&lt;div&gt;if (...||...||...||...||...&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="595" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WDjN70Q_Se-jGM4EE3Aq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDjN70Q_Se-jGM4EE3Aq-19" target="WDjN70Q_Se-jGM4EE3Aq-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="510" width="120" height="60" as="geometry" />
