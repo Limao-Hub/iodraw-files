@@ -10,11 +10,14 @@
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-1" value="系统初始化（和i2c同时），串口配置初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p_DI6pSRG5Wt4KXXbCvM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="p_DI6pSRG5Wt4KXXbCvM-2" target="p_DI6pSRG5Wt4KXXbCvM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-2" value="配置中断函数二号串口消息写事件&lt;div&gt;app_uart_event_init&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_DI6pSRG5Wt4KXXbCvM-4" value="等待串口写事件触发" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="160" width="180" height="90" as="geometry" />
+          <mxGeometry x="230" y="145" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
