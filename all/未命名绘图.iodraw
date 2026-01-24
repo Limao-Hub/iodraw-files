@@ -28,11 +28,14 @@
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-6" value="Init_SHT30()&lt;div&gt;初始化SHT30传感器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="260" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="WDjN70Q_Se-jGM4EE3Aq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WDjN70Q_Se-jGM4EE3Aq-8" target="WDjN70Q_Se-jGM4EE3Aq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-8" value="循环读取数据&lt;div&gt;while(1)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WDjN70Q_Se-jGM4EE3Aq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="510" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
