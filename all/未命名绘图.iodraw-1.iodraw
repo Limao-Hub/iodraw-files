@@ -50,8 +50,8 @@
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-18" value="不在" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="420" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-23" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-23" value="SHT3X测量温度湿度&lt;div&gt;（更新：温度/湿度）&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
