@@ -43,7 +43,7 @@
         <mxCell id="z5A4K4Lc9itATLDfeOfw-12" value="开启小灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z5A4K4Lc9itATLDfeOfw-14" value="计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z5A4K4Lc9itATLDfeOfw-14" value="计时&lt;div&gt;每分钟更新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z5A4K4Lc9itATLDfeOfw-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
