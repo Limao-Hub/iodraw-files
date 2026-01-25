@@ -59,8 +59,11 @@
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-26" value="小灯开启&lt;div&gt;下达命令：&lt;/div&gt;&lt;div&gt;（灯“1”）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-28" value="拉高电平&lt;div&gt;开启计时&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
