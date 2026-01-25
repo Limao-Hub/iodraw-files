@@ -90,11 +90,6 @@
             <mxPoint x="1586" y="93.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RCKc4XgYw5bfJA55bIf9-68" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1729" y="184.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-67" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;是&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1157" y="39" width="130" height="52" as="geometry" />
         </mxCell>
@@ -108,9 +103,6 @@
           <mxGeometry x="13" y="9" width="91" height="65" as="geometry">
             <mxRectangle x="13" y="9" width="78" height="42" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-73" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1729" y="160" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-75" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1222" y="364" width="234" height="139.75" as="geometry" />
