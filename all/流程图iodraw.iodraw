@@ -55,8 +55,8 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-35" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="429" y="182" width="247" height="221" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="481" y="240.5" width="169" height="117" as="geometry" />
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;触发&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="522.5" y="275.5" width="91" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.036;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCKc4XgYw5bfJA55bIf9-15" target="RCKc4XgYw5bfJA55bIf9-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
