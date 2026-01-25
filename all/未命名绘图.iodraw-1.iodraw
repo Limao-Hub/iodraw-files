@@ -74,6 +74,9 @@
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-30" value="收到指令&lt;div&gt;（灯“1”）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
