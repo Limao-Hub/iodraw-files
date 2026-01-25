@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1061" dy="534" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="935" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -55,7 +55,7 @@
         <mxCell id="RCKc4XgYw5bfJA55bIf9-35" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="429" y="182" width="247" height="221" as="geometry" />
         </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;判断指令是否为“F”（开启功能）&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="RCKc4XgYw5bfJA55bIf9-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="481" y="240.5" width="169" height="117" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.036;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RCKc4XgYw5bfJA55bIf9-15" target="RCKc4XgYw5bfJA55bIf9-35" edge="1">
@@ -218,9 +218,6 @@
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-126" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;用户输入“stop&quot;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="611" y="605" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RCKc4XgYw5bfJA55bIf9-127" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="728" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RCKc4XgYw5bfJA55bIf9-128" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;输入”3“&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1041.25" y="343.88" width="60" height="30" as="geometry" />
