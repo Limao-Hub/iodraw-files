@@ -7,7 +7,7 @@
         <mxCell id="z5A4K4Lc9itATLDfeOfw-1" value="开启" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z5A4K4Lc9itATLDfeOfw-2" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;SHT3X持续测量温度湿度放入全局数组&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z5A4K4Lc9itATLDfeOfw-2" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;SHT3X持续测量温度湿度&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
