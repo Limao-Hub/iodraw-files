@@ -53,6 +53,9 @@
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-23" value="SHT3X测量温度湿度&lt;div&gt;（更新：温度/湿度）&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="180" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
