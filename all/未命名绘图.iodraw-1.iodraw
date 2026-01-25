@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z5A4K4Lc9itATLDfeOfw-1" value="开启" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z5A4K4Lc9itATLDfeOfw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z5A4K4Lc9itATLDfeOfw-2" target="z5A4K4Lc9itATLDfeOfw-4">
           <mxGeometry relative="1" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="z5A4K4Lc9itATLDfeOfw-5" value="更新状态为“warning&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z5A4K4Lc9itATLDfeOfw-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
