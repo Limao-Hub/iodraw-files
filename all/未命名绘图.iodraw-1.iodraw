@@ -19,6 +19,9 @@
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJpOQcZSOp1NjDgUhQ6K-5" target="PJpOQcZSOp1NjDgUhQ6K-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-5" value="判断温度湿度&lt;div&gt;是否在预设范围内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="290" width="150" height="100" as="geometry" />
         </mxCell>
@@ -30,9 +33,6 @@
         </mxCell>
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.083;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PJpOQcZSOp1NjDgUhQ6K-5" target="PJpOQcZSOp1NjDgUhQ6K-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
