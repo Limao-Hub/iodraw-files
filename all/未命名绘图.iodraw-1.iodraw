@@ -10,6 +10,9 @@
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-1" value="开启&lt;div&gt;（下达命令：&lt;/div&gt;&lt;div&gt;状态&quot;on&quot;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJpOQcZSOp1NjDgUhQ6K-2" target="PJpOQcZSOp1NjDgUhQ6K-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-2" value="SHT3X测量温度湿度&lt;div&gt;（更新：温度/湿度）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -17,7 +20,7 @@
           <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-5" value="判断温度湿度&lt;div&gt;是否在预设范围内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="290" width="150" height="100" as="geometry" />
+          <mxGeometry x="40" y="290" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
