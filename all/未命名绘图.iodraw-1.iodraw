@@ -83,7 +83,7 @@
         <mxCell id="PJpOQcZSOp1NjDgUhQ6K-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJpOQcZSOp1NjDgUhQ6K-33" target="PJpOQcZSOp1NjDgUhQ6K-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJpOQcZSOp1NjDgUhQ6K-33" value="延时1分钟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
