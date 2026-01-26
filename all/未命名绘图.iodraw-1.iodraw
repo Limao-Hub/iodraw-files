@@ -16,11 +16,14 @@
         <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-2" value="拉高电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ItQ-Rk53Wfl6sV4mpnB8-3" target="ItQ-Rk53Wfl6sV4mpnB8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-3" value="开始计时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="250" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="310" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
