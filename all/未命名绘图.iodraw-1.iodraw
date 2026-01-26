@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-1" value="收到指令&lt;div&gt;（“LeD&quot;:&quot;k&quot;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
