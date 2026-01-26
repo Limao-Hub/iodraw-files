@@ -46,8 +46,8 @@
         <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-16" value="计时清零&lt;div&gt;计数清零&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="ItQ-Rk53Wfl6sV4mpnB8-17" value="拉低电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
