@@ -13,10 +13,10 @@
         <mxCell id="cS-Vgero5fzMG5Z5g5UX-3" value="&lt;div&gt;TCXO 时钟&amp;nbsp;&lt;/div&gt;&lt;div&gt;(硬件定时器)&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cS-Vgero5fzMG5Z5g5UX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cS-Vgero5fzMG5Z5g5UX-4" value="&lt;div&gt;BLE 通信层&lt;/div&gt;&lt;div&gt;TX(Notify) ← 分包发送&amp;nbsp; RX(Write) → 指令解析&amp;nbsp;&lt;/div&gt;&lt;div&gt;SET_TIME / GET_STATUS / GET_RECORDS / ACK&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="420" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cS-Vgero5fzMG5Z5g5UX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cS-Vgero5fzMG5Z5g5UX-5" value="任务调度层&#xa;send_data_task   &#xa;60s 周期定时  &#xa;优雅启停" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cS-Vgero5fzMG5Z5g5UX-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
