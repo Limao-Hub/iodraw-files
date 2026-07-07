@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cS-Vgero5fzMG5Z5g5UX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cS-Vgero5fzMG5Z5g5UX-1" value="&lt;div&gt;手机/上位机&lt;/div&gt;&lt;div&gt;(BLE Client)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cS-Vgero5fzMG5Z5g5UX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -86,7 +86,7 @@
           <mxGeometry x="140" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cS-Vgero5fzMG5Z5g5UX-27" value="组装LightRecord" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="480" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
