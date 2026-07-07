@@ -80,7 +80,10 @@
           <mxGeometry x="400" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cS-Vgero5fzMG5Z5g5UX-25" value="查询/ACK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="360" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cS-Vgero5fzMG5Z5g5UX-26" value="采集触发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="480" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
