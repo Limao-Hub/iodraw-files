@@ -67,7 +67,7 @@
             <mxPoint x="160" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cS-Vgero5fzMG5Z5g5UX-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cS-Vgero5fzMG5Z5g5UX-21" value="BLE GATT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
