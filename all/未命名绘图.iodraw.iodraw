@@ -19,7 +19,7 @@
         <mxCell id="cS-Vgero5fzMG5Z5g5UX-5" value="任务调度层&#xa;send_data_task   &#xa;60s 周期定时  &#xa;优雅启停" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cS-Vgero5fzMG5Z5g5UX-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cS-Vgero5fzMG5Z5g5UX-6" value="&lt;div&gt;&amp;nbsp;数据管理层&amp;nbsp;&lt;/div&gt;&lt;div&gt;generate_sensor_record()&lt;/div&gt;&lt;div&gt;cache_add_record()&lt;/div&gt;&lt;div&gt;cache_find_index_by_seq()&amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cS-Vgero5fzMG5Z5g5UX-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
