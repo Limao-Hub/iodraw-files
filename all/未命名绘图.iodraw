@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oklj7goFJaGyfkGdkPRh-2" value="&lt;span style=&quot;font-size: 21px; font-family: 宋体; font-weight: bold;&quot;&gt;日间感知&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oklj7goFJaGyfkGdkPRh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oklj7goFJaGyfkGdkPRh-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oklj7goFJaGyfkGdkPRh-2" target="oklj7goFJaGyfkGdkPRh-4">
@@ -13,7 +13,7 @@
             <mxPoint x="350" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oklj7goFJaGyfkGdkPRh-4" value="&lt;span style=&quot;font-size: 16pt; font-family: 宋体; font-weight: bold;&quot;&gt;APP&lt;br/&gt;分析&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oklj7goFJaGyfkGdkPRh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="480.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oklj7goFJaGyfkGdkPRh-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oklj7goFJaGyfkGdkPRh-4" target="oklj7goFJaGyfkGdkPRh-6">
@@ -37,7 +37,7 @@
         <mxCell id="oklj7goFJaGyfkGdkPRh-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oklj7goFJaGyfkGdkPRh-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oklj7goFJaGyfkGdkPRh-7" target="oklj7goFJaGyfkGdkPRh-9">
+        <mxCell id="oklj7goFJaGyfkGdkPRh-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="500" as="sourcePoint" />
             <mxPoint x="350" y="450" as="targetPoint" />
