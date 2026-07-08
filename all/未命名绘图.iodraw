@@ -13,7 +13,7 @@
             <mxPoint x="350" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oklj7goFJaGyfkGdkPRh-4" value="&#xa;&lt;span style=&quot;font-size:28.0pt;font-family:宋体;mso-ascii-font-family:&#xa;宋体;mso-fareast-font-family:宋体;mso-bidi-font-family:+mn-cs;mso-bidi-theme-font:&#xa;minor-bidi;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:zh-CN;&#xa;font-weight:bold;font-style:normal;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:&#xa;text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%&quot;&gt;APP&#xa;分析 &lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oklj7goFJaGyfkGdkPRh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="480.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oklj7goFJaGyfkGdkPRh-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oklj7goFJaGyfkGdkPRh-4" target="oklj7goFJaGyfkGdkPRh-6">
