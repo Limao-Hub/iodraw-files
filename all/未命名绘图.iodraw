@@ -49,6 +49,9 @@
         <mxCell id="oklj7goFJaGyfkGdkPRh-12" value="&lt;span style=&quot;font-size: 16pt; font-family: 宋体; font-weight: bold;&quot;&gt;日间感知&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="375" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oklj7goFJaGyfkGdkPRh-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
