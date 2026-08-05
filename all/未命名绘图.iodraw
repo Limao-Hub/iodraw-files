@@ -37,7 +37,7 @@
         <mxCell id="ynyFKsVXIW7coQJm2tAK-9" value="&amp;nbsp;Q3 单品选品MILP(份额分解, 27-33, α=0.90)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ynyFKsVXIW7coQJm2tAK-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ynyFKsVXIW7coQJm2tAK-4" target="ynyFKsVXIW7coQJm2tAK-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="420" as="sourcePoint" />
             <mxPoint x="320" y="370" as="targetPoint" />
