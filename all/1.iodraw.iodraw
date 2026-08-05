@@ -1,0 +1,70 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="eljKR1pLldpya4UEgnAa">
+    <mxGraphModel dx="868" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-1" value="&lt;font face=&quot;Consolas, Courier New, monospace&quot;&gt;附件数据（附录1-4）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-2" value="数据清洗和日频面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ynyFKsVXIW7coQJm2tAK-1" target="ynyFKsVXIW7coQJm2tAK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="380" as="sourcePoint" />
+            <mxPoint x="360" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-4" value="Q1 分布规律与关联(净相关/聚类)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-6" value="Q2 品类需求弹性+报童优化(竞争约束定价域)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ynyFKsVXIW7coQJm2tAK-2" target="ynyFKsVXIW7coQJm2tAK-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="sourcePoint" />
+            <mxPoint x="320" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ynyFKsVXIW7coQJm2tAK-4" target="ynyFKsVXIW7coQJm2tAK-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="sourcePoint" />
+            <mxPoint x="320" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-9" value="&amp;nbsp;Q3 单品选品MILP(份额分解, 27-33, α=0.90)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ynyFKsVXIW7coQJm2tAK-4" target="ynyFKsVXIW7coQJm2tAK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="sourcePoint" />
+            <mxPoint x="320" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ynyFKsVXIW7coQJm2tAK-6" target="ynyFKsVXIW7coQJm2tAK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="sourcePoint" />
+            <mxPoint x="320" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-12" value="Q4 数据建议(四维清单回扣痛点)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ynyFKsVXIW7coQJm2tAK-6" target="ynyFKsVXIW7coQJm2tAK-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="sourcePoint" />
+            <mxPoint x="320" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ynyFKsVXIW7coQJm2tAK-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="ynyFKsVXIW7coQJm2tAK-9" target="ynyFKsVXIW7coQJm2tAK-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="420" as="sourcePoint" />
+            <mxPoint x="320" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
