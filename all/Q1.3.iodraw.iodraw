@@ -16,8 +16,8 @@
         <mxCell id="dDmoOH1mB9LB0OmIq5Bq-5" value="频域：Z_f, Z_o, P_fd" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="250" width="186" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-6" value="时域：z_f(t), z_o(t), P_avg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
