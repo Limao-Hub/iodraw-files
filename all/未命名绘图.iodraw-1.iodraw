@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ms4JDJcImTrNK6C-N3tT">
-    <mxGraphModel dx="681" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="470" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,14 @@
         <mxCell id="JYbCVB8NJNtR27vUfzgu-30" value="&lt;div&gt;频域精确解 P̄_fd(c)=½c·ω²|Z_o−Z_f|²&lt;/div&gt;&lt;div&gt;对数网格 200 点粗扫 → 单峰性检查&lt;/div&gt;&lt;div&gt;→ 端点复核(c=0, 1e5)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;→ minimize_scalar(xatol=1e-8) 精化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="500" width="220" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-31" target="JYbCVB8NJNtR27vUfzgu-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-31" value="&lt;div&gt;打靶法：单周期映射 Newton 求周期不动点&lt;/div&gt;&lt;div&gt;F(x)=advance(x)−x=0（hybr, factor=0.1）&lt;/div&gt;&lt;div&gt;初值=延续终态或频域相量解（失败相量重试）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="500" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-32" target="JYbCVB8NJNtR27vUfzgu-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="670" width="270" height="60" as="geometry" />
