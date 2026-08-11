@@ -38,7 +38,7 @@
           <mxGeometry x="72.5" y="390" width="447.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T9RAGbUCA_YTSy09eqi4-17" value="功率侧：已收敛" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="370" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
