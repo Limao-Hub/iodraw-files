@@ -1,0 +1,58 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="0Eqtwciqjc3_p-6Wd34K">
+    <mxGraphModel dx="682" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-1" value="&lt;div&gt;&amp;nbsp;数据源 A:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;200 周期长积分探针&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-2" value="&lt;div&gt;数据源 B:&lt;/div&gt;&lt;div&gt;&amp;nbsp;40 周期正式结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="157.5" width="55" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="157.5" width="55" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-7" value="&lt;div&gt;逐周期平均功率&lt;/div&gt;&lt;div&gt;(精确kT掩码)&lt;/div&gt;&lt;div&gt;线性拟合漂移&lt;/div&gt;&lt;div&gt;斜率:&amp;nbsp;&lt;/div&gt;&lt;div&gt;case1/case2&lt;/div&gt;&lt;div&gt;均 0.00%/周期&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-8" value="&lt;div&gt;&amp;nbsp;窗口敏感性&lt;/div&gt;&lt;div&gt;后20/40/60/80周期&lt;/div&gt;&lt;div&gt;vs 全180&lt;/div&gt;&lt;div&gt;≤0.05% √&lt;/div&gt;&lt;div&gt;&amp;nbsp;功率已稳态&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-9" value="&lt;div&gt;判据1&lt;/div&gt;&lt;div&gt;末两周期 ΔP&lt;/div&gt;&lt;div&gt;case1 3.92% ✗&lt;/div&gt;&lt;div&gt;case2 4.65% ✗&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(阈值 1%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="94" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-10" value="&lt;div&gt;&amp;nbsp;判据2&lt;/div&gt;&lt;div&gt;相邻周期同相位&lt;/div&gt;&lt;div&gt;状态差(插值kT)&lt;/div&gt;&lt;div&gt;case1 0.98% ✓&amp;nbsp;&lt;/div&gt;&lt;div&gt;case2 1.19% ✗&lt;/div&gt;&lt;div&gt;(阈值 1%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="71.25" y="318.75" width="57.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="318.75" width="57.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-15" value="&lt;div&gt;【综合判断】&lt;/div&gt;&lt;div&gt;功率侧 √（漂移0.00%、敏感性≤0.05%）&lt;/div&gt;&lt;div&gt;状态侧 ✗（判据1、判据2 未过 1% 阈值）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="390" width="447.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-17" value="功率侧：已收敛" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-18" value="状态侧：未周期化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-19" value="&lt;div&gt;结论: 慢模态残余瞬态&lt;/div&gt;&lt;div&gt;功率收敛但状态未完全周期化&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T9RAGbUCA_YTSy09eqi4-15" target="T9RAGbUCA_YTSy09eqi4-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="420" as="sourcePoint" />
+            <mxPoint x="300" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
