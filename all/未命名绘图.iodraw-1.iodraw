@@ -55,7 +55,7 @@
         <mxCell id="JYbCVB8NJNtR27vUfzgu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-32" target="JYbCVB8NJNtR27vUfzgu-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-32" value="Powell 有界精化：网格 top-5 收敛点出发， ±1 档邻域（xtol=1e-3, ftol=1e-6, maxfev=80）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="670" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
