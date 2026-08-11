@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ms4JDJcImTrNK6C-N3tT">
-    <mxGraphModel dx="801" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="470" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="JYbCVB8NJNtR27vUfzgu-7" value="&lt;div&gt;打靶法：单周期映射 Newton 求周期不动点&lt;/div&gt;&lt;div&gt;F(x)=advance(x)−x=0（hybr, factor=0.1）&lt;/div&gt;&lt;div&gt;初值=延续终态或频域相量解（失败相量重试）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="350" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="930" width="490" height="90" as="geometry" />
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-12" value="&lt;div&gt;验证九项（失败-回退表）→ 全绿 → D2 result_verdict 拍板（采信，high）&lt;/div&gt;&lt;div&gt;输出：情形1 c*=37193.8, P=229.334 W&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 情形2 c*=98214.9, α*=0.405986, P=229.970 W（增益 +0.277%）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="930" width="490" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.569;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-3" target="JYbCVB8NJNtR27vUfzgu-4">
           <mxGeometry relative="1" as="geometry" />
