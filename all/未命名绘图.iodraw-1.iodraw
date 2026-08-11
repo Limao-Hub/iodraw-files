@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="30" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-3" value="&lt;div&gt;建立两体垂荡运动方程（浮子 M_f + 振子 m_o，P2b 阻尼系数型）&lt;/div&gt;&lt;div&gt;F_d = c|v_rel|^α_p·v_rel，目标 P̄ = (1/T)∫c|v_rel|^(α_p+2)dt&lt;/div&gt;&lt;div&gt;稳态双判据（末两周期功率差 + 周回状态差 ≤ 1e-7）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="140" width="270" height="80" as="geometry" />
+          <mxGeometry x="60" y="110" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-4" target="JYbCVB8NJNtR27vUfzgu-6">
           <mxGeometry relative="1" as="geometry" />
