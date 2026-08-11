@@ -1,13 +1,13 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Zk_jremNKum3Wj6u2q7M">
-    <mxGraphModel dx="682" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="681" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dDmoOH1mB9LB0OmIq5Bq-2" value="&lt;div&gt;【来源B】频域解析解（独立验证）&lt;/div&gt;&lt;div&gt;复振幅方程：&lt;/div&gt;&lt;div&gt;Z = (−ω²M + iωC + K)⁻¹·[F,0]ᵀ&amp;nbsp;&lt;/div&gt;&lt;div&gt;功率公式：&lt;/div&gt;&lt;div&gt;P_fd = ½·c·ω²·|Z_o − Z_f|²&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-3" value="&lt;div&gt;【来源A】时域数值解&lt;/div&gt;&lt;div&gt;求解：solve_ivp(RK45)&lt;/div&gt;&lt;div&gt;40 周期，0.2s 网格，898 点&lt;/div&gt;&lt;div&gt;&amp;nbsp;取数窗口：[39T, 40T] 末周期&lt;/div&gt;&lt;div&gt;（慢模态残余已基本衰减，最接近纯稳态）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dDmoOH1mB9LB0OmIq5Bq-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="dDmoOH1mB9LB0OmIq5Bq-6" value="时域：z_f(t), z_o(t), P_avg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
