@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-2" value="&lt;div&gt;【来源B】频域解析解（独立验证）&lt;/div&gt;&lt;div&gt;复振幅方程：&lt;/div&gt;&lt;div&gt;Z = (−ω²M + iωC + K)⁻¹·[F,0]ᵀ&amp;nbsp;&lt;/div&gt;&lt;div&gt;功率公式：&lt;/div&gt;&lt;div&gt;P_fd = ½·c·ω²·|Z_o − Z_f|²&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dDmoOH1mB9LB0OmIq5Bq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -17,7 +17,7 @@
           <mxGeometry x="370" y="250" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dDmoOH1mB9LB0OmIq5Bq-6" value="时域：z_f(t), z_o(t), P_avg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="250" width="180" height="30" as="geometry" />
+          <mxGeometry x="140" y="250" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
