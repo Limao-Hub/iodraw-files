@@ -16,7 +16,7 @@
         <mxCell id="T9RAGbUCA_YTSy09eqi4-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="157.5" width="55" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="T9RAGbUCA_YTSy09eqi4-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-7" value="&lt;div&gt;逐周期平均功率&lt;/div&gt;&lt;div&gt;(精确kT掩码)&lt;/div&gt;&lt;div&gt;线性拟合漂移&lt;/div&gt;&lt;div&gt;斜率:&amp;nbsp;&lt;/div&gt;&lt;div&gt;case1/case2&lt;/div&gt;&lt;div&gt;均 0.00%/周期&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="230" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="T9RAGbUCA_YTSy09eqi4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
