@@ -50,7 +50,7 @@
         <mxCell id="9ALWeRgDaKZbx_zUfm26-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="445" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ALWeRgDaKZbx_zUfm26-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9ALWeRgDaKZbx_zUfm26-12" value="&lt;div&gt;回查:&lt;/div&gt;&lt;div&gt;容差/步长/符号&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ALWeRgDaKZbx_zUfm26-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.487;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9ALWeRgDaKZbx_zUfm26-6" target="9ALWeRgDaKZbx_zUfm26-8">
