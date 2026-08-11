@@ -34,7 +34,7 @@
         <mxCell id="T9RAGbUCA_YTSy09eqi4-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="472.5" y="318.75" width="57.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="T9RAGbUCA_YTSy09eqi4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-15" value="&lt;div&gt;【综合判断】&lt;/div&gt;&lt;div&gt;功率侧 √（漂移0.00%、敏感性≤0.05%）&lt;/div&gt;&lt;div&gt;状态侧 ✗（判据1、判据2 未过 1% 阈值）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="390" width="447.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T9RAGbUCA_YTSy09eqi4-17" value="功率侧：已收敛" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="T9RAGbUCA_YTSy09eqi4-18" value="状态侧：未周期化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="370" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
