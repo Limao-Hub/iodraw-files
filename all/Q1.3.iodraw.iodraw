@@ -13,6 +13,9 @@
         <mxCell id="dDmoOH1mB9LB0OmIq5Bq-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="250" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-5" value="频域：Z_f, Z_o, P_fd" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="186" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
