@@ -28,9 +28,6 @@
         <mxCell id="JYbCVB8NJNtR27vUfzgu-7" value="&lt;div&gt;打靶法：单周期映射 Newton 求周期不动点&lt;/div&gt;&lt;div&gt;F(x)=advance(x)−x=0（hybr, factor=0.1）&lt;/div&gt;&lt;div&gt;初值=延续终态或频域相量解（失败相量重试）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="350" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="820" width="230" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="930" width="390" height="90" as="geometry" />
         </mxCell>
@@ -40,14 +37,11 @@
         <mxCell id="JYbCVB8NJNtR27vUfzgu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.437;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-3" target="JYbCVB8NJNtR27vUfzgu-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.731;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-11" target="JYbCVB8NJNtR27vUfzgu-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.206;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-6" target="JYbCVB8NJNtR27vUfzgu-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.193;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-5" target="JYbCVB8NJNtR27vUfzgu-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-30" value="&lt;div&gt;频域精确解 P̄_fd(c)=½c·ω²|Z_o−Z_f|²&lt;/div&gt;&lt;div&gt;对数网格 200 点粗扫 → 单峰性检查&lt;/div&gt;&lt;div&gt;→ 端点复核(c=0, 1e5)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;→ minimize_scalar(xatol=1e-8) 精化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
