@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-1" target="JYbCVB8NJNtR27vUfzgu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-1" value="输入：题面 ω=2.2143 + 附件3 问题2 行（a,b,F）+ 附件4 + P1 k_h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="30" width="270" height="50" as="geometry" />
         </mxCell>
@@ -13,10 +16,10 @@
         <mxCell id="JYbCVB8NJNtR27vUfzgu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-4" target="JYbCVB8NJNtR27vUfzgu-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-4" value="情形1：常量阻尼（α_p=0，线性）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-5" value="情形2：幂次阻尼（α_p∈[0,1]）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
