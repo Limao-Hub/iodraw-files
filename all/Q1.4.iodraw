@@ -22,11 +22,11 @@
         <mxCell id="T9RAGbUCA_YTSy09eqi4-8" value="&lt;div&gt;&amp;nbsp;窗口敏感性&lt;/div&gt;&lt;div&gt;后20/40/60/80周期&lt;/div&gt;&lt;div&gt;vs 全180&lt;/div&gt;&lt;div&gt;≤0.05% √&lt;/div&gt;&lt;div&gt;&amp;nbsp;功率已稳态&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="230" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="T9RAGbUCA_YTSy09eqi4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="230" width="80" height="110" as="geometry" />
+        <mxCell id="T9RAGbUCA_YTSy09eqi4-9" value="&lt;div&gt;判据1&lt;/div&gt;&lt;div&gt;末两周期 ΔP&lt;/div&gt;&lt;div&gt;case1 3.92% ✗&lt;/div&gt;&lt;div&gt;case2 4.65% ✗&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(阈值 1%)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="94" height="110" as="geometry" />
         </mxCell>
         <mxCell id="T9RAGbUCA_YTSy09eqi4-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="230" width="80" height="110" as="geometry" />
+          <mxGeometry x="510" y="230" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="T9RAGbUCA_YTSy09eqi4-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="71.25" y="318.75" width="57.5" height="100" as="geometry" />
