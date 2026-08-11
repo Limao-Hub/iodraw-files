@@ -25,7 +25,7 @@
         <mxCell id="9ALWeRgDaKZbx_zUfm26-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9ALWeRgDaKZbx_zUfm26-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9ALWeRgDaKZbx_zUfm26-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ALWeRgDaKZbx_zUfm26-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="560" as="sourcePoint" />
             <mxPoint x="390" y="510" as="targetPoint" />
