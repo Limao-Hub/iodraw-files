@@ -70,8 +70,8 @@
             <mxPoint x="650" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_qEyKGvgUTY9FbM4YaXO-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="120" width="75" height="320" as="geometry" />
+        <mxCell id="_qEyKGvgUTY9FbM4YaXO-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="522.5" y="420" width="75" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
