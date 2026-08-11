@@ -23,9 +23,9 @@
           <mxGeometry x="120" y="310" width="320" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dDmoOH1mB9LB0OmIq5Bq-8" value="&lt;div&gt;【结论】时域数值解与频域解析解高度一致&lt;/div&gt;&lt;div&gt;&amp;nbsp;平均功率偏差 0.001%，位移幅值偏差 0.007% / 0.024%&lt;/div&gt;&lt;div&gt;&amp;nbsp;→ 数值积分实现正确，可放心使用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="200" height="90" as="geometry" />
+          <mxGeometry x="180" y="520" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dDmoOH1mB9LB0OmIq5Bq-7">
+        <mxCell id="dDmoOH1mB9LB0OmIq5Bq-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dDmoOH1mB9LB0OmIq5Bq-7" target="dDmoOH1mB9LB0OmIq5Bq-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="370" as="sourcePoint" />
             <mxPoint x="610" y="320" as="targetPoint" />
