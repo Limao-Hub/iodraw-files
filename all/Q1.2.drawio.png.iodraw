@@ -47,7 +47,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9ALWeRgDaKZbx_zUfm26-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9ALWeRgDaKZbx_zUfm26-11" value="&lt;div&gt;通过&lt;/div&gt;&lt;div&gt;case1&amp;nbsp; 1.67e-7&amp;nbsp;&lt;/div&gt;&lt;div&gt;case2&amp;nbsp; &amp;nbsp;5.35e-7&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ALWeRgDaKZbx_zUfm26-12" value="&lt;div&gt;回查:&lt;/div&gt;&lt;div&gt;容差/步长/符号&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
