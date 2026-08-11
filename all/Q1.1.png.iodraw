@@ -13,7 +13,7 @@
         <mxCell id="_qEyKGvgUTY9FbM4YaXO-3" value="&lt;div&gt;[运动方程]&lt;/div&gt;&lt;div&gt;两体 ODE&lt;/div&gt;&lt;div&gt;平衡位取零&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qEyKGvgUTY9FbM4YaXO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qEyKGvgUTY9FbM4YaXO-4" value="&lt;div&gt;[参数确定]&amp;nbsp;&lt;/div&gt;&lt;div&gt;附件3/4 + P1&lt;/div&gt;&lt;div&gt;K_h=31557.3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_qEyKGvgUTY9FbM4YaXO-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
