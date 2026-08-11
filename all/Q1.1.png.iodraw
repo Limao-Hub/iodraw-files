@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_qEyKGvgUTY9FbM4YaXO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qEyKGvgUTY9FbM4YaXO-1" value="&lt;div&gt;[读题与物理图景]&lt;/div&gt;&lt;div&gt;波浪能装置&lt;/div&gt;&lt;div&gt;两体点吸收&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_qEyKGvgUTY9FbM4YaXO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_qEyKGvgUTY9FbM4YaXO-2" value="[受力分析] &#xa;浮子受力&#xa;(6 项力)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_qEyKGvgUTY9FbM4YaXO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
