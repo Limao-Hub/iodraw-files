@@ -22,7 +22,7 @@
         <mxCell id="9ALWeRgDaKZbx_zUfm26-6" value="&lt;div&gt;比较全 4 分量&amp;nbsp;&lt;/div&gt;&lt;div&gt;(z_f,z_o,v_f,v_o)&amp;nbsp;&lt;/div&gt;&lt;div&gt;全时段 898 点&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ALWeRgDaKZbx_zUfm26-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9ALWeRgDaKZbx_zUfm26-8" value="相对偏差 &amp;lt; 1e-6 ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9ALWeRgDaKZbx_zUfm26-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ALWeRgDaKZbx_zUfm26-8">
