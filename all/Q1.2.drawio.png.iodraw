@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9ALWeRgDaKZbx_zUfm26-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9ALWeRgDaKZbx_zUfm26-1" value="&lt;div&gt;运动方程与参数&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(同一初值 / 同 0.2s 网格)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="70" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ALWeRgDaKZbx_zUfm26-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
