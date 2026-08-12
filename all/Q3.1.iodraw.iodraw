@@ -10,7 +10,7 @@
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-1" value="&lt;div&gt;&amp;nbsp;输入：题面 ω=1.7152, c_z=10000, c_θ=1000 + 附件3 问题3 行&lt;/div&gt;&lt;div&gt;（a_z,a_θ,b_z,b_θ,f,L）+ 附件4 + P1 k_h + P5 派生(J_f,J_o,s₀,K_g)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="630" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O1ju-O2xqUf5AKu2T8ts-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O1ju-O2xqUf5AKu2T8ts-2" value="&lt;div&gt;双块一阶解耦论证：直线 PTO 力沿中轴对铰点无力矩（r×F 沿轴叉积为零）+&amp;nbsp;&lt;/div&gt;&lt;div&gt;小角度一阶近似（振子滑动对惯量变化为二阶项）&lt;/div&gt;&lt;div&gt;升级触发器：max(|α|,|β|) &amp;gt; 0.1 rad → 完整几何模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="630" height="110" as="geometry" />
         </mxCell>
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
