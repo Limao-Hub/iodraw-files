@@ -10,7 +10,7 @@
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-1" value="&lt;div&gt;题面 ω=1.9806, c_z/c_θ∈[0,100000] + 附件3 问题4 行&lt;/div&gt;&lt;div&gt;a_z=1091.099,a_θ=7142.493,b_z=528.5018,b_θ=1655.909,f=1760,L=2140）+ 附件4 + P1 k_h + P5 派生(J_f,J_o,s₀,K_g)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-2" value="&lt;div&gt;优化问题陈述：max P̄(c_z,c_θ) s.t. 0≤c_z,c_θ≤100000&lt;/div&gt;&lt;div&gt;目标口径：PTO 平均输出功率（题面无显式公式，物理口径交代）&lt;/div&gt;&lt;div&gt;P̄ = ½c_z·ω²|Z_o−Z_f|² + ½c_θ·ω²|B−A|²（P4 双块解耦，各自 2×2 频域解）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="150" width="440" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
