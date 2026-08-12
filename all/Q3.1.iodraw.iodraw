@@ -34,10 +34,10 @@
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.771;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1ju-O2xqUf5AKu2T8ts-5" target="O1ju-O2xqUf5AKu2T8ts-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O1ju-O2xqUf5AKu2T8ts-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O1ju-O2xqUf5AKu2T8ts-14" value="&lt;div&gt;稳态口径：频域精确值为主值&lt;/div&gt;&lt;div&gt;P̄_z = 41.8416 W&amp;nbsp;&lt;/div&gt;&lt;div&gt;P̄_θ = 1.4675×10⁻³ W&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="720" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O1ju-O2xqUf5AKu2T8ts-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O1ju-O2xqUf5AKu2T8ts-15" value="&lt;div&gt;&amp;nbsp;报告制：40T 窗口含慢模态拍频&lt;/div&gt;&lt;div&gt;&amp;nbsp;瞬态（+0.63%），窗口值仅作对照；&lt;/div&gt;&lt;div&gt;&amp;nbsp;纵摇慢模态 τ≈45 s 未完全周期化&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="720" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O1ju-O2xqUf5AKu2T8ts-17" target="O1ju-O2xqUf5AKu2T8ts-18">
