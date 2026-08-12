@@ -28,7 +28,7 @@
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Og1Sy4L1hmdW7rZDvrz-6" target="1Og1Sy4L1hmdW7rZDvrz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-6" value="&lt;div&gt;局部加密 + 边界复核：&lt;/div&gt;&lt;div&gt;① 粗扫 top-5 → Powell 有界精化（对数坐标，±1 网格步邻域）&lt;/div&gt;&lt;div&gt;② 四条边显式扫描（各 200 点 + 精化）+ 四个角点显式求值（P(0,0)=0）&amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;③ 边界最优判定：c_θ=1e5 边内最优 318.4464 ≥ 内部精化 318.4463→ c_θ* = 100000（顶界，约束域内最优候选）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="500" width="440" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og1Sy4L1hmdW7rZDvrz-7" target="1Og1Sy4L1hmdW7rZDvrz-8">
