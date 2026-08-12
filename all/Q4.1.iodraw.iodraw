@@ -22,7 +22,7 @@
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og1Sy4L1hmdW7rZDvrz-5" target="1Og1Sy4L1hmdW7rZDvrz-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-5" value="&lt;div&gt;二维确定性粗网格扫描：81×81=6561 点（对数轴，含 0 边界）&lt;/div&gt;&lt;div&gt;+ 可分离性验证（分解恒等 ~1e-16 + 脊结构 argmax 稳定） + 单峰性（两方向符号变化段 ≤1）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="380" width="440" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Og1Sy4L1hmdW7rZDvrz-6" target="1Og1Sy4L1hmdW7rZDvrz-7">
