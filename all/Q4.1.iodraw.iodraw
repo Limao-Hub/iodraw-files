@@ -43,7 +43,7 @@
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-8" value="&lt;div&gt;验证（失败-回退表，全绿）：退化对照 c_θ→0（0.000%/0.014% 回归 Q2）&lt;/div&gt;&lt;div&gt;/ 网格收敛（0.013%）/ 频域残差（1.7e-14）/ 能量守恒（0 违反）/ 纵摇退化 α≡β≡0 / 角度 0.067 rad &amp;lt; 0.1 rad / J_f ±20% 双口径&amp;nbsp; （总功率 0.009% 不触发 + P_θ 自身 Δ±18-25% 已回查）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="780" width="440" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-9" value="输出：c_z*=59152.91 N·s/m, c_θ*=100000（顶界）, P_max=318.4464 W（约束域 [0,100000]² 内最优候选）功率组成：垂荡 318.3364 W（99.965%）+ 纵摇 0.1099 W（0.0345%）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="920" width="440" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1Og1Sy4L1hmdW7rZDvrz-1" target="1Og1Sy4L1hmdW7rZDvrz-2">
