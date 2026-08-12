@@ -25,7 +25,7 @@
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.459;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1ju-O2xqUf5AKu2T8ts-2" target="O1ju-O2xqUf5AKu2T8ts-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O1ju-O2xqUf5AKu2T8ts-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O1ju-O2xqUf5AKu2T8ts-9" value="&lt;div&gt;求解（两块同管线）：&lt;/div&gt;&lt;div&gt;① 频域黄金：2×2 复阻抗 → P̄=½cω²|相对复幅值|²（精确稳态主值）&lt;/div&gt;&lt;div&gt;② 零初值 DOP853 40T（rtol 1e-9, max_step=T/200）→ 733 点导出&lt;/div&gt;&lt;div&gt;③ 相量初值核验（vs 解析稳态 1e-13）+ 独立 RK4 增广双解法（1e-6/1e-4）&lt;/div&gt;&lt;div&gt;④ 零初值稳态可达性：逐周期积分 ≤400 周期，双判据 1e-7（垂荡 97 周期 / 纵摇 197 周期收敛，vs 频域 1e-8）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="630" height="150" as="geometry" />
         </mxCell>
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.229;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1ju-O2xqUf5AKu2T8ts-4" target="O1ju-O2xqUf5AKu2T8ts-9">
