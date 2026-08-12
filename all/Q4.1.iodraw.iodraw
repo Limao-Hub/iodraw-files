@@ -13,7 +13,7 @@
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-2" value="&lt;div&gt;优化问题陈述：max P̄(c_z,c_θ) s.t. 0≤c_z,c_θ≤100000&lt;/div&gt;&lt;div&gt;目标口径：PTO 平均输出功率（题面无显式公式，物理口径交代）&lt;/div&gt;&lt;div&gt;P̄ = ½c_z·ω²|Z_o−Z_f|² + ½c_θ·ω²|B−A|²（P4 双块解耦，各自 2×2 频域解）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="150" width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-3" value="&lt;div&gt;垂荡块 1D 频域优化 P̄_z(c_z)&amp;nbsp;&lt;/div&gt;&lt;div&gt;200 点对数扫描 + 单峰性&lt;/div&gt;&lt;div&gt;端点复核 + 精化→ c_z*_1d = 59152.91&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
