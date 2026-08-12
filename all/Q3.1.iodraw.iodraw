@@ -1,13 +1,13 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="e4yRiOgV9osbkUf_Lmsj">
-    <mxGraphModel dx="851" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="717" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O1ju-O2xqUf5AKu2T8ts-1" target="O1ju-O2xqUf5AKu2T8ts-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O1ju-O2xqUf5AKu2T8ts-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O1ju-O2xqUf5AKu2T8ts-1" value="&lt;div&gt;&amp;nbsp;输入：题面 ω=1.7152, c_z=10000, c_θ=1000 + 附件3 问题3 行&lt;/div&gt;&lt;div&gt;（a_z,a_θ,b_z,b_θ,f,L）+ 附件4 + P1 k_h + P5 派生(J_f,J_o,s₀,K_g)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="630" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
