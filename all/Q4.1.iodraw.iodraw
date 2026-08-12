@@ -34,7 +34,7 @@
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og1Sy4L1hmdW7rZDvrz-7" target="1Og1Sy4L1hmdW7rZDvrz-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-7" value="&lt;div&gt;时域定案（零初值独立验证）：&lt;/div&gt;&lt;div&gt;① 稳态可达性：逐周期 DOP853 ≤400 周期，双判据 1e-7，末 10 周期均值(heave 104 周期 / pitch 89 周期收敛，vs 频域 6.4e-7/2.9e-9）&lt;/div&gt;&lt;div&gt;② 双解法：相量初值核验（1e-13）+ 独立 RK4 增广（1e-4 级）&lt;/div&gt;&lt;div&gt;③ c_z 方向时域五点 ×{0.8..1.2} → c_z*_td = 59152.05（rel 0.0015%）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="640" width="440" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Og1Sy4L1hmdW7rZDvrz-8" target="1Og1Sy4L1hmdW7rZDvrz-9">
