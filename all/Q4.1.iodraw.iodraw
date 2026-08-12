@@ -16,7 +16,7 @@
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-3" value="&lt;div&gt;垂荡块 1D 频域优化 P̄_z(c_z)&amp;nbsp;&lt;/div&gt;&lt;div&gt;200 点对数扫描 + 单峰性&lt;/div&gt;&lt;div&gt;端点复核 + 精化→ c_z*_1d = 59152.91&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Og1Sy4L1hmdW7rZDvrz-4" value="&lt;div&gt;纵摇块 1D 频域优化 P̄_θ(c_θ)同结构；&lt;/div&gt;&lt;div&gt;单调上升 → 顶界候选 → c_θ*_1d → 100000（顶界）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="260" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1Og1Sy4L1hmdW7rZDvrz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Og1Sy4L1hmdW7rZDvrz-5" target="1Og1Sy4L1hmdW7rZDvrz-6">
