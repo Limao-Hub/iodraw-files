@@ -1,73 +1,73 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ms4JDJcImTrNK6C-N3tT">
-    <mxGraphModel dx="1282" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="682" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-1" target="JYbCVB8NJNtR27vUfzgu-3">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-1" target="JYbCVB8NJNtR27vUfzgu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-1" value="输入：题面 ω=2.2143 + 附件3 问题2 行（a,b,F）+ 附件4 + P1 k_h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-1" value="输入：题面 ω=2.2143 + 附件3 问题2 行（a,b,F）+ 附件4 + P1 k_h" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="30" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-3" value="&lt;div&gt;建立两体垂荡运动方程（浮子 M_f + 振子 m_o，P2b 阻尼系数型）&lt;/div&gt;&lt;div&gt;F_d = c|v_rel|^α_p·v_rel，目标 P̄ = (1/T)∫c|v_rel|^(α_p+2)dt&lt;/div&gt;&lt;div&gt;稳态双判据（末两周期功率差 + 周回状态差 ≤ 1e-7）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-3" value="&lt;div&gt;建立两体垂荡运动方程（浮子 M_f + 振子 m_o，P2b 阻尼系数型）&lt;/div&gt;&lt;div&gt;F_d = c|v_rel|^α_p·v_rel，目标 P̄ = (1/T)∫c|v_rel|^(α_p+2)dt&lt;/div&gt;&lt;div&gt;稳态双判据（末两周期功率差 + 周回状态差 ≤ 1e-7）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="110" width="270" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-4" target="JYbCVB8NJNtR27vUfzgu-6">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-4" target="JYbCVB8NJNtR27vUfzgu-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-4" value="情形1：常量阻尼（α_p=0，线性）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-4" value="情形1：常量阻尼（α_p=0，线性）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-5" value="情形2：幂次阻尼（α_p∈[0,1]）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-5" value="情形2：幂次阻尼（α_p∈[0,1]）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-6" target="JYbCVB8NJNtR27vUfzgu-30">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-6" target="JYbCVB8NJNtR27vUfzgu-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-6" value="&lt;div&gt;频域精确解 P̄_fd(c)=½c·ω²|Z_o−Z_f|²&lt;/div&gt;&lt;div&gt;对数网格 200 点粗扫 → 单峰性检查&lt;/div&gt;&lt;div&gt;→ 端点复核(c=0, 1e5)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;→ minimize_scalar(xatol=1e-8) 精化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-6" value="&lt;div&gt;频域精确解 P̄_fd(c)=½c·ω²|Z_o−Z_f|²&lt;/div&gt;&lt;div&gt;对数网格 200 点粗扫 → 单峰性检查&lt;/div&gt;&lt;div&gt;→ 端点复核(c=0, 1e5)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;→ minimize_scalar(xatol=1e-8) 精化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="350" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-7" value="&lt;div&gt;打靶法：单周期映射 Newton 求周期不动点&lt;/div&gt;&lt;div&gt;F(x)=advance(x)−x=0（hybr, factor=0.1）&lt;/div&gt;&lt;div&gt;初值=延续终态或频域相量解（失败相量重试）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-7" value="&lt;div&gt;打靶法：单周期映射 Newton 求周期不动点&lt;/div&gt;&lt;div&gt;F(x)=advance(x)−x=0（hybr, factor=0.1）&lt;/div&gt;&lt;div&gt;初值=延续终态或频域相量解（失败相量重试）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="350" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;输出：情形1 c*=37193.8, P=229.334 W&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 情形2 c*=98214.9, α*=0.405986, P=229.970 W（增益 +0.277%）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;输出：情形1 c*=37193.8, P=229.334 W&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 情形2 c*=98214.9, α*=0.405986, P=229.970 W（增益 +0.277%）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="930" width="490" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.569;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-3" target="JYbCVB8NJNtR27vUfzgu-4">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.569;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-3" target="JYbCVB8NJNtR27vUfzgu-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.437;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-3" target="JYbCVB8NJNtR27vUfzgu-5">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.437;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-3" target="JYbCVB8NJNtR27vUfzgu-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.193;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-5" target="JYbCVB8NJNtR27vUfzgu-7">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.193;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-5" target="JYbCVB8NJNtR27vUfzgu-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-30" value="&lt;div&gt;频域精确解 P̄_fd(c)=½c·ω²|Z_o−Z_f|²&lt;/div&gt;&lt;div&gt;对数网格 200 点粗扫 → 单峰性检查&lt;/div&gt;&lt;div&gt;→ 端点复核(c=0, 1e5)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;→ minimize_scalar(xatol=1e-8) 精化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-30" value="&lt;div&gt;频域精确解 P̄_fd(c)=½c·ω²|Z_o−Z_f|²&lt;/div&gt;&lt;div&gt;对数网格 200 点粗扫 → 单峰性检查&lt;/div&gt;&lt;div&gt;→ 端点复核(c=0, 1e5)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;→ minimize_scalar(xatol=1e-8) 精化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="500" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-31" target="JYbCVB8NJNtR27vUfzgu-32">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-31" target="JYbCVB8NJNtR27vUfzgu-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-31" value="&lt;div&gt;打靶法：单周期映射 Newton 求周期不动点&lt;/div&gt;&lt;div&gt;F(x)=advance(x)−x=0（hybr, factor=0.1）&lt;/div&gt;&lt;div&gt;初值=延续终态或频域相量解（失败相量重试）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-31" value="&lt;div&gt;二维网格粗扫：c 线性 2500 档(41) ×&lt;/div&gt;&lt;div&gt;α 0.05 档(21) = 861 点 + 参数延续（收敛终态作下一格点初值，只作打靶猜测）&lt;/div&gt;&lt;div&gt;每点 DOP853 增广状态功率积分，双判据 1e-7&lt;/div&gt;&lt;div&gt;连续 3 周期达标早停，末 10 周期平均&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="500" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-32" target="JYbCVB8NJNtR27vUfzgu-33">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-32" target="JYbCVB8NJNtR27vUfzgu-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-32" value="Powell 有界精化：网格 top-5 收敛点出发， ±1 档邻域（xtol=1e-3, ftol=1e-6, maxfev=80）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-32" value="Powell 有界精化：网格 top-5 收敛点出发， ±1 档邻域（xtol=1e-3, ftol=1e-6, maxfev=80）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="670" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-33" value="&lt;div&gt;α_p=0 端点退化验证（时域 vs 频域 0.000%；插值 c*_row0 vs 情形1 c* 差 0.001%）&lt;/div&gt;&lt;div&gt;双解法抽查（RK4 vs DOP853，&amp;lt;1e-4）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-33" value="&lt;div&gt;α_p=0 端点退化验证（时域 vs 频域 0.000%；插值 c*_row0 vs 情形1 c* 差 0.001%）&lt;/div&gt;&lt;div&gt;双解法抽查（RK4 vs DOP853，&amp;lt;1e-4）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="790" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.409;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-7" target="JYbCVB8NJNtR27vUfzgu-31">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.409;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-7" target="JYbCVB8NJNtR27vUfzgu-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.726;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-33" target="JYbCVB8NJNtR27vUfzgu-12">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.726;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-33" target="JYbCVB8NJNtR27vUfzgu-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.162;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-30" target="JYbCVB8NJNtR27vUfzgu-12">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.162;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-30" target="JYbCVB8NJNtR27vUfzgu-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
