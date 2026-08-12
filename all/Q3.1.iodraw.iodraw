@@ -16,7 +16,7 @@
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-4" value="&lt;div&gt;&amp;nbsp;垂荡块 (z_f, z_o) 2×2 线性系统&lt;/div&gt;&lt;div&gt;M_z q̈+C_z q̇+K_z q=[f cosωt,0]&lt;/div&gt;&lt;div&gt;C_z=[[b_z+c_z,−c_z],[−c_z,c_z]]&lt;/div&gt;&lt;div&gt;K_z=[[k_h+k_spr,−k_spr],[−k_spr,k_spr]]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="O1ju-O2xqUf5AKu2T8ts-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O1ju-O2xqUf5AKu2T8ts-5" value="&lt;div&gt;纵摇块 (α, β) 2×2 线性系统&lt;/div&gt;&lt;div&gt;M_θ q̈+C_θ q̇+K_θ q=[L cosωt,0]&lt;/div&gt;&lt;div&gt;K_θ=[[K_α+k_θ,−k_θ], [−k_θ, k_θ−K_g]]（K_g 负刚度）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.541;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1ju-O2xqUf5AKu2T8ts-2" target="O1ju-O2xqUf5AKu2T8ts-4">
