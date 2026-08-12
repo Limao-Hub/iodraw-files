@@ -58,6 +58,9 @@
         <mxCell id="JYbCVB8NJNtR27vUfzgu-32" value="&lt;div&gt;多起点 Powell 有界精化：top-5 收敛点，&lt;/div&gt;&lt;div&gt;归一化 u=c/C_MAX；xtol=1e-6/ftol=1e-9/&amp;nbsp;&lt;/div&gt;&lt;div&gt;maxfev=400；拒绝 success=False 中间点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="670" width="270" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bl2AAWoC4O9tvCsGjw7q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JYbCVB8NJNtR27vUfzgu-33" target="bl2AAWoC4O9tvCsGjw7q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-33" value="&lt;div&gt;c=C_MAX 上边界一维精化（α∈[0.35,0.50]，xatol=1e-4）&lt;/div&gt;&lt;div&gt;+ 四角点显式比较→ 边界最优 c*=1e5, α*≈0.416&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="790" width="270" height="60" as="geometry" />
         </mxCell>
@@ -67,10 +70,13 @@
         <mxCell id="JYbCVB8NJNtR27vUfzgu-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.162;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-30" target="JYbCVB8NJNtR27vUfzgu-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bl2AAWoC4O9tvCsGjw7q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bl2AAWoC4O9tvCsGjw7q-1" target="bl2AAWoC4O9tvCsGjw7q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bl2AAWoC4O9tvCsGjw7q-1" value="&lt;div&gt;α_p=0 端点退化验证&lt;/div&gt;&lt;div&gt;（时域 vs 频域 0.000%；插值 c*_row0 vs 情形1 c* 差 0.001%）&lt;/div&gt;&lt;div&gt;双解法抽查（RK4 vs DOP853，&amp;lt;1e-4）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="890" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bl2AAWoC4O9tvCsGjw7q-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bl2AAWoC4O9tvCsGjw7q-2" value="&lt;div&gt;周期稳态五层证据链（最终最优/网格最优/α=0 退化三点，全部 5/5 通过）：&lt;/div&gt;&lt;div&gt;①打靶残差≤1e-7 ②相邻周期 ③扰动衰减④Floquet 谱半径&amp;lt;1 ⑤多初值收敛同一响应&lt;/div&gt;&lt;div&gt;不主张唯一/全局吸引（Poincaré–Bendixson不适用）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="970" width="270" height="100" as="geometry" />
         </mxCell>
       </root>
