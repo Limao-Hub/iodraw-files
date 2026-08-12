@@ -13,7 +13,7 @@
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-2" value="&lt;div&gt;双块一阶解耦论证：直线 PTO 力沿中轴对铰点无力矩（r×F 沿轴叉积为零）+&amp;nbsp;&lt;/div&gt;&lt;div&gt;小角度一阶近似（振子滑动对惯量变化为二阶项）&lt;/div&gt;&lt;div&gt;升级触发器：max(|α|,|β|) &amp;gt; 0.1 rad → 完整几何模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="630" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="O1ju-O2xqUf5AKu2T8ts-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O1ju-O2xqUf5AKu2T8ts-4" value="&lt;div&gt;&amp;nbsp;垂荡块 (z_f, z_o) 2×2 线性系统&lt;/div&gt;&lt;div&gt;M_z q̈+C_z q̇+K_z q=[f cosωt,0]&lt;/div&gt;&lt;div&gt;C_z=[[b_z+c_z,−c_z],[−c_z,c_z]]&lt;/div&gt;&lt;div&gt;K_z=[[k_h+k_spr,−k_spr],[−k_spr,k_spr]]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="O1ju-O2xqUf5AKu2T8ts-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
