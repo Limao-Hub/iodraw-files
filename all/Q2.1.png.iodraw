@@ -31,7 +31,7 @@
         <mxCell id="JYbCVB8NJNtR27vUfzgu-7" value="&lt;div&gt;打靶法：单周期映射 Newton 求周期不动点&lt;/div&gt;&lt;div&gt;F(x)=advance(x)−x=0（hybr, factor=0.1）&lt;/div&gt;&lt;div&gt;初值=延续终态或频域相量解（失败相量重试）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="350" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JYbCVB8NJNtR27vUfzgu-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;输出：情形1 c*=37193.8, P=229.334 W&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 情形2 c*=98214.9, α*=0.405986, P=229.970 W（增益 +0.277%）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JYbCVB8NJNtR27vUfzgu-12" value="&lt;div&gt;输出：情形1 c*=37193.8, P=229.334 W&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 情形2 c*=100000（边界, 约束最优）, α*≈0.416, P=229.994 W（增益 +0.288%）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1090" width="490" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JYbCVB8NJNtR27vUfzgu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.569;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JYbCVB8NJNtR27vUfzgu-3" target="JYbCVB8NJNtR27vUfzgu-4" edge="1">
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="bl2AAWoC4O9tvCsGjw7q-2" value="&lt;div&gt;周期稳态五层证据链（最终最优/网格最优/α=0 退化三点，全部 5/5 通过）：&lt;/div&gt;&lt;div&gt;①打靶残差≤1e-7 ②相邻周期 ③扰动衰减④Floquet 谱半径&amp;lt;1 ⑤多初值收敛同一响应&lt;/div&gt;&lt;div&gt;不主张唯一/全局吸引（Poincaré–Bendixson不适用）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="970" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2AAWoC4O9tvCsGjw7q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.734;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bl2AAWoC4O9tvCsGjw7q-2" target="JYbCVB8NJNtR27vUfzgu-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
