@@ -234,8 +234,11 @@
         <mxCell id="IfFXK6jO3kHJijJhfO3V-89" value="EBF5F1" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2660" y="590" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IfFXK6jO3kHJijJhfO3V-90" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Q1Q2论文&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-90" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Q1Q2论文&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2f6fd;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3070" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.693;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IfFXK6jO3kHJijJhfO3V-85" target="IfFXK6jO3kHJijJhfO3V-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
