@@ -127,12 +127,18 @@
           <mxGeometry x="1840" y="309.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IfFXK6jO3kHJijJhfO3V-55" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;V1检查报告&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;（AI角色扮演，反馈是否有问题）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="450" width="160" height="70" as="geometry" />
+          <mxGeometry x="1680" y="450" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IfFXK6jO3kHJijJhfO3V-56" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.024;entryY=0.093;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1670" y="370" as="sourcePoint" />
             <mxPoint x="1684" y="457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-57" value="" style="endArrow=classic;html=1;rounded=0;curved=1;entryX=0.201;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.986;exitY=0.081;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="648" y="466" as="sourcePoint" />
+            <mxPoint x="674" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
