@@ -40,7 +40,7 @@
         <mxCell id="IfFXK6jO3kHJijJhfO3V-15" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;V1检查报告&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;（AI角色扮演，反馈是否有问题）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="450" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IfFXK6jO3kHJijJhfO3V-22" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Q1代码建模v2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-22" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Q1代码建模v2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="640" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IfFXK6jO3kHJijJhfO3V-24" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.024;entryY=0.093;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IfFXK6jO3kHJijJhfO3V-14" target="IfFXK6jO3kHJijJhfO3V-15">
@@ -94,7 +94,7 @@
             <mxPoint x="974" y="467" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IfFXK6jO3kHJijJhfO3V-36" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1" source="IfFXK6jO3kHJijJhfO3V-32">
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-36" value="" style="endArrow=classic;html=1;rounded=0;curved=1;entryX=0.019;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IfFXK6jO3kHJijJhfO3V-32" target="IfFXK6jO3kHJijJhfO3V-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1050" y="350" as="sourcePoint" />
             <mxPoint x="1140" y="370" as="targetPoint" />
