@@ -6,8 +6,8 @@
         <mxCell id="1" parent="0" />
         <mxCell id="IfFXK6jO3kHJijJhfO3V-2" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#CCCC00;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="390" as="sourcePoint" />
-            <mxPoint x="3367.6923076923076" y="390" as="targetPoint" />
+            <mxPoint y="260" as="sourcePoint" />
+            <mxPoint x="3087.6923076923076" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IfFXK6jO3kHJijJhfO3V-3" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#CCCC00;strokeWidth=2;" edge="1" parent="1">
@@ -119,6 +119,35 @@
         </mxCell>
         <mxCell id="IfFXK6jO3kHJijJhfO3V-45" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Q1论文&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1480" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-48" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;粗建模&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-49" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Q1代码建模v1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-50" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Q1代码建模v2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="650" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-51" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IfFXK6jO3kHJijJhfO3V-50" target="IfFXK6jO3kHJijJhfO3V-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="410" as="sourcePoint" />
+            <mxPoint x="930" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-52" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Q1代码vn&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="929.9999999999998" y="319.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfFXK6jO3kHJijJhfO3V-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-54" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;冻结为&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Q1代码final&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1099.9999999999998" y="319.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
