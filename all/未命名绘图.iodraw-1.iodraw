@@ -123,13 +123,11 @@
         <mxCell id="IfFXK6jO3kHJijJhfO3V-49" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Q2代码建模v1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1620" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IfFXK6jO3kHJijJhfO3V-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfFXK6jO3kHJijJhfO3V-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2450" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IfFXK6jO3kHJijJhfO3V-54" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;冻结为&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Q1代码final&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="309.9999999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="1840" y="309.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfFXK6jO3kHJijJhfO3V-55" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;V1检查报告&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;（AI角色扮演，反馈是否有问题）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
