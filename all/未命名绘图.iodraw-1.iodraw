@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IfFXK6jO3kHJijJhfO3V-26" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;V2检查报告&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="740" y="450" width="150" height="70" as="geometry" />
+          <mxGeometry x="680" y="450" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IfFXK6jO3kHJijJhfO3V-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.808;exitY=1.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfFXK6jO3kHJijJhfO3V-22" target="IfFXK6jO3kHJijJhfO3V-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -72,9 +72,6 @@
               <mxPoint x="880" y="340" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="IfFXK6jO3kHJijJhfO3V-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IfFXK6jO3kHJijJhfO3V-26" target="IfFXK6jO3kHJijJhfO3V-26">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
