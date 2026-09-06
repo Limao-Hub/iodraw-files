@@ -62,14 +62,20 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-33" value="经验累计比例：&lt;div&gt;截至该周曾测到Y&amp;gt;=4%的人数/全组人数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="210" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-35" target="hqbEdCAqD3ARAgY2OwIr-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-35" target="hqbEdCAqD3ARAgY2OwIr-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="150" width="120" height="60" as="geometry" />
