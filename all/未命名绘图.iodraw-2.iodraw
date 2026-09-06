@@ -16,8 +16,14 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-2" value="&lt;div&gt;采用累计观测达标：&lt;/div&gt;&lt;div&gt;截至某周以前是否至少检测达标过一次&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="190" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-4" target="hqbEdCAqD3ARAgY2OwIr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-4" value="经验累计比例：以孕妇为单位计算各组达标比例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-7" target="hqbEdCAqD3ARAgY2OwIr-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="150" width="120" height="60" as="geometry" />
@@ -26,7 +32,7 @@
           <mxGeometry x="630" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="195" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
