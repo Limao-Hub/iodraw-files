@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bO0IJdiE0YPx4zGtFEks-5" value="&lt;div&gt;同模型、同分组、同90%门槛&lt;/div&gt;&lt;div&gt;比较加入因素前后的时点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="180" width="130" height="60" as="geometry" />
+          <mxGeometry x="690" y="180" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bO0IJdiE0YPx4zGtFEks-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bO0IJdiE0YPx4zGtFEks-6" target="bO0IJdiE0YPx4zGtFEks-7">
           <mxGeometry relative="1" as="geometry" />
