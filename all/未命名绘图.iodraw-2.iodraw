@@ -52,8 +52,8 @@
         <mxCell id="RZgoZKgt_R7GBY4JjAqP-7" value="得到:孕妇等权AUC&lt;div&gt;模型0.8025，Z值规则0.5312&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RZgoZKgt_R7GBY4JjAqP-8" value="仍有21条异常记录漏检，校准有偏差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="RZgoZKgt_R7GBY4JjAqP-8" value="仍有21条异常记录漏检，校准有偏差&lt;div&gt;尚不能作为独立临床诊断&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="110" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RZgoZKgt_R7GBY4JjAqP-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="210" width="120" height="60" as="geometry" />
