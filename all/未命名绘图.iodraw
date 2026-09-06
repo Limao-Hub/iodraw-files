@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6k0IvzSpuanzTU72WrBW-9" value="&lt;div&gt;孕周与Y浓度正相关&lt;/div&gt;&lt;div&gt;&lt;div&gt;BMI与Y浓度负相关&lt;/div&gt;&lt;/div&gt;&lt;div&gt;年龄只有弱趋势，个体差异明显&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="280" width="180" height="56.25" as="geometry" />
+          <mxGeometry x="840" y="280" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6k0IvzSpuanzTU72WrBW-14" value="考虑同一孕妇的重复检测后，孕周与 Y 浓度显著正相关，BMI 与 Y 浓度显著负相关；年龄仅呈弱负趋势。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="330" width="230" height="60" as="geometry" />
