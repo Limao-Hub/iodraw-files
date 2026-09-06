@@ -50,6 +50,9 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-25" value="人数太少，估计不稳&lt;div&gt;并入邻组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
