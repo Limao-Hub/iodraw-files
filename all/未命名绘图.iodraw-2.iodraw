@@ -10,7 +10,7 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-1" value="目的：按BMI分组，找出达到4%的合适孕周" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hqbEdCAqD3ARAgY2OwIr-2" value="目的：按BMI分组，找出达到4%的合适孕周" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-2" value="&lt;div&gt;采用累计观测达标：&lt;/div&gt;&lt;div&gt;截至某周以前是否至少检测达标过一次&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
