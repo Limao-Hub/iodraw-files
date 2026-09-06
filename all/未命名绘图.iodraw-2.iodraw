@@ -19,6 +19,9 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-21" value="边界组&amp;lt;10人？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
