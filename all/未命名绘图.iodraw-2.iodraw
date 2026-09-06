@@ -77,8 +77,8 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hqbEdCAqD3ARAgY2OwIr-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-38" value="检测之间没有连续观测NPMLE:利用删失信息补充估计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="150" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="190" width="120" height="60" as="geometry" />
