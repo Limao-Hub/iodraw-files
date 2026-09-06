@@ -65,8 +65,8 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-35" target="hqbEdCAqD3ARAgY2OwIr-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hqbEdCAqD3ARAgY2OwIr-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-35" value="希望多数人达标、又尽量早检测预设90%槛，找首次达到的周数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="230" width="120" height="60" as="geometry" />
