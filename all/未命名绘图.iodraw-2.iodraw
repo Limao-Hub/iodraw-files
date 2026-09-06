@@ -35,6 +35,9 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-21" value="边界组&amp;lt;10人？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-23" target="hqbEdCAqD3ARAgY2OwIr-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-23" value="同一人有多次检测&lt;div&gt;每人只记首次观测达标周&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="210" width="140" height="60" as="geometry" />
         </mxCell>
@@ -51,7 +54,10 @@
           <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-33" value="经验累计比例：&lt;div&gt;截至该周曾测到Y&amp;gt;=4%的人数/全组人数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
