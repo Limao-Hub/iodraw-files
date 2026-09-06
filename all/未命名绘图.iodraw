@@ -28,7 +28,7 @@
         <mxCell id="6k0IvzSpuanzTU72WrBW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k0IvzSpuanzTU72WrBW-4" target="6k0IvzSpuanzTU72WrBW-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6k0IvzSpuanzTU72WrBW-4" value="&lt;div&gt;再看GAM：检查关系是否明显弯曲&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6k0IvzSpuanzTU72WrBW-4" value="&lt;div&gt;看GAM：检查关系是否明显弯曲&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="150" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="6k0IvzSpuanzTU72WrBW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6k0IvzSpuanzTU72WrBW-5" target="6k0IvzSpuanzTU72WrBW-9">
@@ -43,8 +43,8 @@
         <mxCell id="6k0IvzSpuanzTU72WrBW-9" value="&lt;div&gt;孕周与Y浓度正相关&lt;/div&gt;&lt;div&gt;&lt;div&gt;BMI与Y浓度负相关&lt;/div&gt;&lt;/div&gt;&lt;div&gt;年龄只有弱趋势，个体差异明显&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="280" width="180" height="56.25" as="geometry" />
         </mxCell>
-        <mxCell id="6k0IvzSpuanzTU72WrBW-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="6k0IvzSpuanzTU72WrBW-14" value="考虑同一孕妇的重复检测后，孕周与 Y 浓度显著正相关，BMI 与 Y 浓度显著负相关；年龄仅呈弱负趋势。&lt;br&gt;因此，Q1 采用 LME 作为主模型，GAM 仅作非线性诊断，结论表示统计关联而非因果关系。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="280" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
