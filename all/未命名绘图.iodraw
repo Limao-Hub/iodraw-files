@@ -19,8 +19,8 @@
         <mxCell id="bO0IJdiE0YPx4zGtFEks-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bO0IJdiE0YPx4zGtFEks-2" target="bO0IJdiE0YPx4zGtFEks-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bO0IJdiE0YPx4zGtFEks-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="bO0IJdiE0YPx4zGtFEks-2" value="选GEE Logistic估计考虑重复记录的达标概率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bO0IJdiE0YPx4zGtFEks-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="bO0IJdiE0YPx4zGtFEks-3" target="bO0IJdiE0YPx4zGtFEks-5">
           <mxGeometry relative="1" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="bO0IJdiE0YPx4zGtFEks-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="bO0IJdiE0YPx4zGtFEks-4" target="bO0IJdiE0YPx4zGtFEks-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bO0IJdiE0YPx4zGtFEks-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bO0IJdiE0YPx4zGtFEks-4" value="BMI基线&lt;div&gt;孕周+BMI+孕周xBMI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bO0IJdiE0YPx4zGtFEks-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bO0IJdiE0YPx4zGtFEks-5">
