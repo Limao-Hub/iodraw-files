@@ -44,10 +44,10 @@
           <mxGeometry x="840" y="270" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6k0IvzSpuanzTU72WrBW-14" value="考虑同一孕妇的重复检测后，孕周与 Y 浓度显著正相关，BMI 与 Y 浓度显著负相关；年龄仅呈弱负趋势。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="320" width="230" height="60" as="geometry" />
+          <mxGeometry x="1140" y="320" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6k0IvzSpuanzTU72WrBW-15" value="Q1 采用 LME 作为主模型，GAM 仅作非线性诊断，结论表示统计关联而非因果关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="250" width="230" height="60" as="geometry" />
+          <mxGeometry x="1140" y="250" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6k0IvzSpuanzTU72WrBW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6k0IvzSpuanzTU72WrBW-9" target="6k0IvzSpuanzTU72WrBW-15">
           <mxGeometry relative="1" as="geometry" />
