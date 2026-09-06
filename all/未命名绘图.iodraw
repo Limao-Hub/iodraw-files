@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6k0IvzSpuanzTU72WrBW-1" value="目的：&lt;span style=&quot;background-color: initial;&quot;&gt;分析Y浓度和孕周、BMI、年龄等指标的关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="133.33" height="50" as="geometry" />
+          <mxGeometry x="280" y="280" width="150" height="56.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
