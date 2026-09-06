@@ -55,6 +55,9 @@
         <mxCell id="6k0IvzSpuanzTU72WrBW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.011;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6k0IvzSpuanzTU72WrBW-9" target="6k0IvzSpuanzTU72WrBW-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6k0IvzSpuanzTU72WrBW-26" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="30" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
