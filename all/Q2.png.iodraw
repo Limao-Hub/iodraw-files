@@ -1,0 +1,101 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="miPqqcrvQXLPTPNsYk5m">
+    <mxGraphModel dx="868" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-18" target="hqbEdCAqD3ARAgY2OwIr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-18" value="&amp;nbsp;要求：按BMI分组，找出达到4%的合适孕周，并分析检测误差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-19" target="hqbEdCAqD3ARAgY2OwIr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-19" value="按首次检测BMI定组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-21" target="hqbEdCAqD3ARAgY2OwIr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hqbEdCAqD3ARAgY2OwIr-26">
+          <mxGeometry x="0.3067" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-21" target="hqbEdCAqD3ARAgY2OwIr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hqbEdCAqD3ARAgY2OwIr-27">
+          <mxGeometry x="0.2267" y="-3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-21" value="边界组&amp;lt;10人？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-23" target="hqbEdCAqD3ARAgY2OwIr-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-23" value="同一人有多次检测&lt;div&gt;每人只记首次观测达标周&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-24" target="hqbEdCAqD3ARAgY2OwIr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-24" value="保留原组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-25" target="hqbEdCAqD3ARAgY2OwIr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-25" value="人数太少，估计不稳&lt;div&gt;并入邻组&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-33" target="hqbEdCAqD3ARAgY2OwIr-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-33" target="hqbEdCAqD3ARAgY2OwIr-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-33" value="经验累计比例：&lt;div&gt;截至该周曾测到Y&amp;gt;=4%的人数/全组人数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-35" target="hqbEdCAqD3ARAgY2OwIr-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-35" value="希望多数人达标、又尽量早检测预设90%槛，找首次达到的周数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-36" value="样本和测量存在波动整人重抽样、调整阈值和比例门槛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-37" target="hqbEdCAqD3ARAgY2OwIr-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-37" value="得到:三组整数建议时点17周、17周、24周" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-38" value="检测之间没有连续观测NPMLE:利用删失信息补充估计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="150" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-39" value="补充结果:时点存在不确定性误差情景会使时点提前或推迟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-40" value="回应:给出BMI分组时点属于90%累计观测达标口径的建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="300" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-35" target="hqbEdCAqD3ARAgY2OwIr-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-36" target="hqbEdCAqD3ARAgY2OwIr-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-38" target="hqbEdCAqD3ARAgY2OwIr-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
