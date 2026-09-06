@@ -80,7 +80,7 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-38" value="检测之间没有连续观测NPMLE:利用删失信息补充估计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="150" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hqbEdCAqD3ARAgY2OwIr-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-39" value="补充结果:时点存在不确定性误差情景会使时点提前或推迟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-40" value="回应:给出BMI分组时点属于90%累计观测达标口径的建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
