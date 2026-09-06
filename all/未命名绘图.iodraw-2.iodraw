@@ -83,7 +83,7 @@
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hqbEdCAqD3ARAgY2OwIr-40" value="结论:给出BMI分组时点属于90%累计观测达标口径的建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hqbEdCAqD3ARAgY2OwIr-40" value="回应:给出BMI分组时点属于90%累计观测达标口径的建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="300" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqbEdCAqD3ARAgY2OwIr-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hqbEdCAqD3ARAgY2OwIr-35" target="hqbEdCAqD3ARAgY2OwIr-37">
