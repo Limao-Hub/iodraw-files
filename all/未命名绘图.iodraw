@@ -34,13 +34,13 @@
         <mxCell id="bO0IJdiE0YPx4zGtFEks-4" value="BMI基线&lt;div&gt;孕周+BMI+孕周xBMI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bO0IJdiE0YPx4zGtFEks-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bO0IJdiE0YPx4zGtFEks-5">
+        <mxCell id="bO0IJdiE0YPx4zGtFEks-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bO0IJdiE0YPx4zGtFEks-5" target="bO0IJdiE0YPx4zGtFEks-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bO0IJdiE0YPx4zGtFEks-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="bO0IJdiE0YPx4zGtFEks-5" value="&lt;div&gt;同模型、同分组、同90%门槛&lt;/div&gt;&lt;div&gt;比较加入因素前后的时点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="180" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bO0IJdiE0YPx4zGtFEks-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bO0IJdiE0YPx4zGtFEks-6" target="bO0IJdiE0YPx4zGtFEks-7">
           <mxGeometry relative="1" as="geometry" />
