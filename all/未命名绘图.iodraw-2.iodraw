@@ -34,7 +34,7 @@
         <mxCell id="PJ1gP752KyezZQgEtdg7-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PJ1gP752KyezZQgEtdg7-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PJ1gP752KyezZQgEtdg7-6" value="可视化图（热力图等）&lt;div&gt;表格呈现数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
