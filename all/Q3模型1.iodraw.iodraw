@@ -31,7 +31,7 @@
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-6" value="更新（附录3）物性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="61.25" y="290" width="107.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-10" value="热模型&lt;div&gt;入T/k/环境&lt;/div&gt;&lt;div&gt;出T新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
