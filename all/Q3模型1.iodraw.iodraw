@@ -28,8 +28,8 @@
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-5" value="初始化T,C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="240" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-6" value="建立径向网格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="290" width="85" height="30" as="geometry" />
+        <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-6" value="更新（附录3）物性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="290" width="107.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
