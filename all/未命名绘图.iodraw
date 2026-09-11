@@ -45,9 +45,6 @@
         <mxCell id="glK26I6KcftU6qiUbxFs-18" value="获得时空温度场与水分场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="glK26I6KcftU6qiUbxFs-20" value="支撑表格与模型检验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
