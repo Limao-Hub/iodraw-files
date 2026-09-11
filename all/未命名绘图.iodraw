@@ -10,6 +10,9 @@
         <mxCell id="glK26I6KcftU6qiUbxFs-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.08px;&quot;&gt;求药材温度和水分浓度变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="100" width="130" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="glK26I6KcftU6qiUbxFs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="glK26I6KcftU6qiUbxFs-3" target="glK26I6KcftU6qiUbxFs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="glK26I6KcftU6qiUbxFs-3" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14.08px;&quot;&gt;圆柱对象且固定半径，变化以径向变化为主&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="150" height="55" as="geometry" />
         </mxCell>
