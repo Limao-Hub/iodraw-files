@@ -32,16 +32,19 @@
           <mxGeometry x="390" y="100" width="107.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-10" value="热模型&lt;div&gt;入T/k/环境&lt;/div&gt;&lt;div&gt;出T新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="340" width="102.5" height="50" as="geometry" />
+          <mxGeometry x="460" y="150" width="102.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-11" value="水分模型&lt;div&gt;入C旧/D/环境&lt;/div&gt;&lt;div&gt;出C新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="102.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mLrIfWZ8ZfZ8EDzVPbkD-12" target="mLrIfWZ8ZfZ8EDzVPbkD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-12" value="双场是否收敛？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="61.25" y="410" width="122.5" height="60" as="geometry" />
+          <mxGeometry x="375" y="220" width="122.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-13" value="更新T,C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="345" width="80" height="40" as="geometry" />
+          <mxGeometry x="590" y="150" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
