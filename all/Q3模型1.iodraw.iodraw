@@ -31,11 +31,18 @@
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-6" value="更新（附录3）物性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="107.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mLrIfWZ8ZfZ8EDzVPbkD-10" target="mLrIfWZ8ZfZ8EDzVPbkD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-10" value="热模型&lt;div&gt;入T/k/环境&lt;/div&gt;&lt;div&gt;出T新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="150" width="102.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mLrIfWZ8ZfZ8EDzVPbkD-11" target="mLrIfWZ8ZfZ8EDzVPbkD-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-11" value="水分模型&lt;div&gt;入C旧/D/环境&lt;/div&gt;&lt;div&gt;出C新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="102.5" height="50" as="geometry" />
@@ -62,16 +69,6 @@
         </mxCell>
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.156;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mLrIfWZ8ZfZ8EDzVPbkD-6" target="mLrIfWZ8ZfZ8EDzVPbkD-10">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.521;exitY=1.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mLrIfWZ8ZfZ8EDzVPbkD-10" target="mLrIfWZ8ZfZ8EDzVPbkD-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="230" as="sourcePoint" />
-            <mxPoint x="470" y="209.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="513" y="230" />
-              <mxPoint x="467" y="230" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
