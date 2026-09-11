@@ -46,6 +46,9 @@
         <mxCell id="Lf7MDLyzR8PrMrqgv9_P-10" value="记录D_used" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-680" width="105" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Lf7MDLyzR8PrMrqgv9_P-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-770" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
