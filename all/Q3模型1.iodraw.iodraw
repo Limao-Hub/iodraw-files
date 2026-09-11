@@ -60,12 +60,6 @@
         <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.156;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mLrIfWZ8ZfZ8EDzVPbkD-6" target="mLrIfWZ8ZfZ8EDzVPbkD-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.457;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mLrIfWZ8ZfZ8EDzVPbkD-11" target="mLrIfWZ8ZfZ8EDzVPbkD-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mLrIfWZ8ZfZ8EDzVPbkD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.531;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mLrIfWZ8ZfZ8EDzVPbkD-10" target="mLrIfWZ8ZfZ8EDzVPbkD-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
