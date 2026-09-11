@@ -28,16 +28,13 @@
         <mxCell id="VpPVfrD_Wv77Y6RFoT6o-6" value="处理非线性&lt;div&gt;Picard更新物性&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VpPVfrD_Wv77Y6RFoT6o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VpPVfrD_Wv77Y6RFoT6o-8" target="VpPVfrD_Wv77Y6RFoT6o-10">
+        <mxCell id="VpPVfrD_Wv77Y6RFoT6o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VpPVfrD_Wv77Y6RFoT6o-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="280" as="targetPoint" />
+            <mxPoint x="200" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VpPVfrD_Wv77Y6RFoT6o-8" value="数值求解&lt;div&gt;有限体积+后向Euler&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VpPVfrD_Wv77Y6RFoT6o-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
