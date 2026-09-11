@@ -10,7 +10,7 @@
         <mxCell id="VpPVfrD_Wv77Y6RFoT6o-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.56pt; font-family: 宋体;&quot;&gt;建立整个烘干过程药材温度和水分变化的模型&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="150" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VpPVfrD_Wv77Y6RFoT6o-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VpPVfrD_Wv77Y6RFoT6o-2" value="对象简化为固定半径圆柱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
