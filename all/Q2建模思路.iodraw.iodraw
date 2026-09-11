@@ -10,11 +10,14 @@
         <mxCell id="VpPVfrD_Wv77Y6RFoT6o-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 10.56pt;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;建立整个烘干过程药材温度和水分变化的模型&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="150" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VpPVfrD_Wv77Y6RFoT6o-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VpPVfrD_Wv77Y6RFoT6o-2" target="VpPVfrD_Wv77Y6RFoT6o-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VpPVfrD_Wv77Y6RFoT6o-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;对象简化为&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;固定半径圆柱&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpPVfrD_Wv77Y6RFoT6o-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
