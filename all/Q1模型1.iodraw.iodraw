@@ -58,6 +58,9 @@
         <mxCell id="HEZjEQuNRp2keQwCuJE6-25" value="输出：&lt;div&gt;Ts，qh,温度场&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="86.25" y="430" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="HEZjEQuNRp2keQwCuJE6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
