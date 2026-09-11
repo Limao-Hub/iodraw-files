@@ -52,13 +52,16 @@
         <mxCell id="HEZjEQuNRp2keQwCuJE6-19" value="组装三对角方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="290" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HEZjEQuNRp2keQwCuJE6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HEZjEQuNRp2keQwCuJE6-23" target="HEZjEQuNRp2keQwCuJE6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HEZjEQuNRp2keQwCuJE6-23" value="Thomas线性求解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="93.75" y="360" width="112.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HEZjEQuNRp2keQwCuJE6-25" value="输出：&lt;div&gt;Ts，qh,温度场&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="86.25" y="430" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HEZjEQuNRp2keQwCuJE6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HEZjEQuNRp2keQwCuJE6-26" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="500" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
