@@ -10,7 +10,7 @@
         <mxCell id="HEZjEQuNRp2keQwCuJE6-2" value="输入：k，rho,cp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HEZjEQuNRp2keQwCuJE6-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="HEZjEQuNRp2keQwCuJE6-3" value="输入：T_prev，Ta" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
