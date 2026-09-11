@@ -60,7 +60,7 @@
         <mxCell id="Lf7MDLyzR8PrMrqgv9_P-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lf7MDLyzR8PrMrqgv9_P-16" target="Lf7MDLyzR8PrMrqgv9_P-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lf7MDLyzR8PrMrqgv9_P-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lf7MDLyzR8PrMrqgv9_P-25">
+        <mxCell id="Lf7MDLyzR8PrMrqgv9_P-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lf7MDLyzR8PrMrqgv9_P-25">
           <mxGeometry x="-0.1167" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -76,6 +76,9 @@
         </mxCell>
         <mxCell id="Lf7MDLyzR8PrMrqgv9_P-24" value="重构Cs，qm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="-680" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf7MDLyzR8PrMrqgv9_P-27" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
