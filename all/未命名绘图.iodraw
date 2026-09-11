@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="glK26I6KcftU6qiUbxFs-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.08px;&quot;&gt;预热平衡阶段药材温度和水分浓度变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="45" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="100" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="glK26I6KcftU6qiUbxFs-3" value="&lt;span style=&quot;font-family: 宋体; font-size: 14.08px;&quot;&gt;预热平衡阶段药材温度和水分浓度变化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="130" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
