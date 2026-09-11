@@ -33,7 +33,7 @@
             <mxPoint x="210" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VpPVfrD_Wv77Y6RFoT6o-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VpPVfrD_Wv77Y6RFoT6o-8" value="数值求解&lt;div&gt;有限体积+后向Euler&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpPVfrD_Wv77Y6RFoT6o-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
