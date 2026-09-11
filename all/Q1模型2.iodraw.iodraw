@@ -77,8 +77,8 @@
         <mxCell id="Lf7MDLyzR8PrMrqgv9_P-24" value="重构Cs，qm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="-680" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lf7MDLyzR8PrMrqgv9_P-27" value="输出：水分场，通量与分支" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-750" width="100" height="40" as="geometry" />
+        <mxCell id="Lf7MDLyzR8PrMrqgv9_P-27" value="输出：&lt;div&gt;水分场，通量与分支&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-750" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
