@@ -29,7 +29,7 @@
           <mxGeometry x="-20" y="570" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pITUI2nEFymCSqaEDC91-11" value="接受当前时间层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="-12.5" y="660" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
