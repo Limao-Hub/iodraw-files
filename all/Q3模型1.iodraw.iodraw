@@ -54,6 +54,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pITUI2nEFymCSqaEDC91-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pITUI2nEFymCSqaEDC91-10" target="pITUI2nEFymCSqaEDC91-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pITUI2nEFymCSqaEDC91-10" value="两场变化足够小？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="570" width="130" height="70" as="geometry" />
         </mxCell>
