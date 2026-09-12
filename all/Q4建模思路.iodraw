@@ -7,7 +7,7 @@
         <mxCell id="ogkj8kta7U7rakInpa1O-1" value="R(t)意味着半径随失水收缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="110" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ogkj8kta7U7rakInpa1O-2" value="R(t)意味着半径随失水收缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ogkj8kta7U7rakInpa1O-2" value="计算域称为动边界" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
