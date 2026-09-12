@@ -22,8 +22,8 @@
         <mxCell id="53021Ws9itY3tSbDvy93-6" value="表面存在两端阻力&lt;div&gt;反算真实表面&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="260" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="53021Ws9itY3tSbDvy93-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="53021Ws9itY3tSbDvy93-7" value="要求局部收支守恒&lt;div&gt;按圆环小块计算&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
