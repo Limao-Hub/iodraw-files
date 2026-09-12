@@ -7,8 +7,8 @@
         <mxCell id="53021Ws9itY3tSbDvy93-1" value="要求全域达标，需要逐点检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="190" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="53021Ws9itY3tSbDvy93-2" value="固定圆柱径向主导，只计算半径方向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="190" width="110" height="40" as="geometry" />
+        <mxCell id="53021Ws9itY3tSbDvy93-2" value="只计算半径方向&lt;div&gt;且&lt;span style=&quot;background-color: initial;&quot;&gt;温度会影响水分蒸发&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="53021Ws9itY3tSbDvy93-3" value="温度会影响水分蒸发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
