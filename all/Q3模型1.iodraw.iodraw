@@ -34,8 +34,11 @@
         <mxCell id="pITUI2nEFymCSqaEDC91-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="585" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pITUI2nEFymCSqaEDC91-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pITUI2nEFymCSqaEDC91-15" value="所有位置低于阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pITUI2nEFymCSqaEDC91-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pITUI2nEFymCSqaEDC91-17" target="pITUI2nEFymCSqaEDC91-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pITUI2nEFymCSqaEDC91-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="580" width="120" height="40" as="geometry" />
