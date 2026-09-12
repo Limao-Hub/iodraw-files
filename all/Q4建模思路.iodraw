@@ -13,6 +13,9 @@
         <mxCell id="ogkj8kta7U7rakInpa1O-3" value="用一维轴对称&lt;div&gt;相似收缩随体模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="110" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ogkj8kta7U7rakInpa1O-4" value="计算域成&lt;div&gt;为动边界&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
