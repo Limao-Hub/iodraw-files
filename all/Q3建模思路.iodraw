@@ -31,6 +31,9 @@
         <mxCell id="53021Ws9itY3tSbDvy93-14" value="确定四小时后&lt;div&gt;环境保持末值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="290" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="53021Ws9itY3tSbDvy93-16" value="确定四小时后&lt;div&gt;环境保持末值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
