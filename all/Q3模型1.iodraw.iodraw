@@ -25,6 +25,14 @@
         <mxCell id="pITUI2nEFymCSqaEDC91-8" value="用后向Euler推进两场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-12.5" y="510" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pITUI2nEFymCSqaEDC91-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pITUI2nEFymCSqaEDC91-10" target="pITUI2nEFymCSqaEDC91-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pITUI2nEFymCSqaEDC91-38" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pITUI2nEFymCSqaEDC91-37">
+          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pITUI2nEFymCSqaEDC91-10" value="两场变化足够小？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="570" width="130" height="70" as="geometry" />
         </mxCell>
@@ -50,6 +58,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pITUI2nEFymCSqaEDC91-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pITUI2nEFymCSqaEDC91-15" target="pITUI2nEFymCSqaEDC91-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pITUI2nEFymCSqaEDC91-15" value="所有位置低于阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="410" width="130" height="80" as="geometry" />
         </mxCell>
@@ -73,6 +84,9 @@
         </mxCell>
         <mxCell id="pITUI2nEFymCSqaEDC91-30" value="时间增加1秒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pITUI2nEFymCSqaEDC91-39" value="所有位置低于阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
