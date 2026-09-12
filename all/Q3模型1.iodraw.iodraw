@@ -26,7 +26,10 @@
           <mxGeometry x="-12.5" y="510" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pITUI2nEFymCSqaEDC91-10" value="两场变化足够小？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="580" width="130" height="80" as="geometry" />
+          <mxGeometry x="-20" y="570" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pITUI2nEFymCSqaEDC91-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
