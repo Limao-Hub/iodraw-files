@@ -19,6 +19,12 @@
         <mxCell id="pITUI2nEFymCSqaEDC91-6" value="用当前温湿度计算物性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-7.5" y="370" width="105" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pITUI2nEFymCSqaEDC91-7" value="施加表面热交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="440" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pITUI2nEFymCSqaEDC91-8" value="施加表面热交换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="450" width="105" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
