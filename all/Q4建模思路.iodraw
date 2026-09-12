@@ -43,7 +43,7 @@
         <mxCell id="DV9AE0hxHEshwB9JQyH5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DV9AE0hxHEshwB9JQyH5-13" target="DV9AE0hxHEshwB9JQyH5-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DV9AE0hxHEshwB9JQyH5-13" value="v" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DV9AE0hxHEshwB9JQyH5-13" value="装配有限体积方程&lt;div&gt;BE+Picard求解&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DV9AE0hxHEshwB9JQyH5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DV9AE0hxHEshwB9JQyH5-14" target="DV9AE0hxHEshwB9JQyH5-16">
