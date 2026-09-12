@@ -25,6 +25,9 @@
         <mxCell id="53021Ws9itY3tSbDvy93-7" value="要求局部收支守恒&lt;div&gt;按圆环小块计算&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="53021Ws9itY3tSbDvy93-12" value="要求局部收支守恒&lt;div&gt;按圆环小块计算&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
