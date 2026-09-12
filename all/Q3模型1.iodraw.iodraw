@@ -56,7 +56,7 @@
         <mxCell id="pITUI2nEFymCSqaEDC91-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pITUI2nEFymCSqaEDC91-18" target="pITUI2nEFymCSqaEDC91-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pITUI2nEFymCSqaEDC91-18" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="pITUI2nEFymCSqaEDC91-18" value="输出：&lt;br&gt;温湿场，时间和表格" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="655" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pITUI2nEFymCSqaEDC91-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
