@@ -13,8 +13,8 @@
         <mxCell id="pITUI2nEFymCSqaEDC91-3" value="划分径向网格&lt;div&gt;并设初值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="230" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pITUI2nEFymCSqaEDC91-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="pITUI2nEFymCSqaEDC91-4" value="取得当前时刻环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
