@@ -10,7 +10,7 @@
         <mxCell id="pITUI2nEFymCSqaEDC91-2" value="输入环境参数" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="170" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pITUI2nEFymCSqaEDC91-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pITUI2nEFymCSqaEDC91-3" value="划分径向网格并设初值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
