@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="El570tHlYjpRiX0DPxKO">
-    <mxGraphModel dx="411" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,14 @@
         <mxCell id="ogkj8kta7U7rakInpa1O-1" value="R(t)意味着半径随失水收缩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="110" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ogkj8kta7U7rakInpa1O-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ogkj8kta7U7rakInpa1O-2" target="ogkj8kta7U7rakInpa1O-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ogkj8kta7U7rakInpa1O-2" value="计算域成&lt;div&gt;为动边界&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogkj8kta7U7rakInpa1O-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ogkj8kta7U7rakInpa1O-3" target="ogkj8kta7U7rakInpa1O-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ogkj8kta7U7rakInpa1O-3" value="用一维轴对称&lt;div&gt;相似收缩随体模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="110" width="100" height="50" as="geometry" />
